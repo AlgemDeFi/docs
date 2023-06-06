@@ -1,16 +1,16 @@
 # Table of contents
 
-* [:wave: การแนะนำ](README.md)
+* [👋 การแนะนำ](README.md)
 
 ## Algem Protocol
 
-* [:sweat_drops: Liquid dApp Staking](algem-protocol/liquid-dapp-staking/README.md)
+* [💦 Liquid dApp Staking](algem-protocol/liquid-dapp-staking/README.md)
   * [ASTR Liquid Staking](algem-protocol/liquid-dapp-staking/astr-liquid-staking.md)
   * [Unstaking nASTR](algem-protocol/liquid-dapp-staking/unstaking-nastr.md)
   * [Liquid staking FAQ](algem-protocol/liquid-dapp-staking/liquid-staking-faq.md)
 * [🌊 Liquid Lending](algem-protocol/liquid-lending.md)
 * [📔 nASTR Farming](algem-protocol/nastr-farming.md)
-* [:droplet: nASTR](algem-protocol/dnts.md)
+* [💧 nASTR](algem-protocol/dnts.md)
 * [👥 Join Algem Community](algem-protocol/join-algem-community/README.md)
   * [การเชื่อมโยงระบบนิเวศ](algem-protocol/join-algem-community/undefined.md)
   * [Algyors Program](algem-protocol/join-algem-community/algyors-program.md)
@@ -27,7 +27,7 @@
 * [💼 Wallets & Networks](get-started/wallets-and-networks/README.md)
   * [🦊 Metamask](get-started/wallets-and-networks/metamask.md)
   * [🔑 Ledger EVM](get-started/wallets-and-networks/ledger-evm.md)
-  * [\* Polkadot{.js}](get-started/wallets-and-networks/polkadot-.js.md)
+  * [\* \* Polkadot{.js}](get-started/wallets-and-networks/polkadot-.js.md)
 * [🔀 Transfer assets to Astar Network EVM](get-started/transfer-assets-to-astar-network-evm/README.md)
   * [🏦 From a CEX](get-started/transfer-assets-to-astar-network-evm/from-a-cex.md)
   * [🌀 Using Astar Network Portal](get-started/transfer-assets-to-astar-network-evm/using-astar-network-portal.md)
@@ -38,7 +38,7 @@
   * [🖥 รุ่นเดสก์ท็อป](get-started/liquid-dapp-staking-algem/undefined.md)
   * [📱 รุ่นมือถือ](get-started/liquid-dapp-staking-algem/undefined-1.md)
 * [🦈 How to use Algem's nASTR Farming](get-started/how-to-use-algems-nastr-farming/README.md)
-  * [🌾 Sirius Finance](get-started/how-to-use-algems-nastr-farming/sirius-finance.md)
+  * [👨🌾 Sirius Finance](get-started/how-to-use-algems-nastr-farming/sirius-finance.md)
   * [🌽 Kagla Finance](get-started/how-to-use-algems-nastr-farming/kagla-finance.md)
   * [🥕 Arthswap](get-started/how-to-use-algems-nastr-farming/arthswap.md)
 * [🐠 How to transfer nASTR tokens with Algem](get-started/how-to-transfer-nastr-tokens-with-algem.md)

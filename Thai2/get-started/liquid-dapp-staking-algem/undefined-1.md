@@ -18,7 +18,7 @@
 * รับโทเค็น nASTR ในจำนวนที่เท่ากันและเริ่มรับรางวัล staking.
 * Use nASTR tokens to farm on our partners Defi dApps in our [nASTR Farming](https://docs.algem.io/get-started/how-to-use-algems-nastr-liquidity-hub);
 
-![](../../.gitbook/assets/C.png)
+![](<../../../English/.gitbook/assets/C (1).png>)
 
 เมื่อ Algem มอบหมายโทเค็น ASTR ของคุณให้กับ Astar dApp Staking แล้ว, คุณจะได้รับจำนวนเงินเท่ากับจำนวนที่ฝากในโทเค็น nASTR และเริ่มรับรางวัล staking.
 
@@ -46,4 +46,4 @@ _**nASTR:**_ 0xE511ED88575C57767BAfb72BfD10775413E3F2b0
 
 คุณจะได้รับโทเค็น ASTR ของคุณโดยตรงในกระเป๋าเงินของคุณหลังจากปฏิบัติตามเงื่อนไข unstaking (เช่น, ระยะเวลาที่ไม่ผูกมัด).
 
-<figure><img src="../../.gitbook/assets/D (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../English/.gitbook/assets/D (1) (1).png" alt=""><figcaption></figcaption></figure>
