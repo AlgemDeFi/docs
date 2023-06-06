@@ -17,6 +17,7 @@
 * [🪙 ALGM token](algem-protocol/algm-token/README.md)
   * [Tokenomics](algem-protocol/algm-token/tokenomics.md)
   * [ยูทิลิตี้ของ ALGM](algem-protocol/algm-token/algm.md)
+* [🖼 NFT Collections](algem-protocol/nft-collections.md)
 * [⚖ ช่องทางรายได้ของโปรโตคอล](algem-protocol/undefined.md)
 * [🗺 Roadmap](algem-protocol/roadmap.md)
 * [⚠ Riการบริหารความเสี่ยง](algem-protocol/ri.md)
