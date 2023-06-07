@@ -1,16 +1,16 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [:wave: Introduction](README.md)
 
 ## 🤖 Algem Protocol
 
-* [Liquid dApp Staking](algem-protocol/liquid-dapp-staking/README.md)
+* [:sweat_drops: Liquid dApp Staking](algem-protocol/liquid-dapp-staking/README.md)
   * [ASTR Liquid Staking](algem-protocol/liquid-dapp-staking/astr-liquid-staking.md)
   * [Unstaking nASTR](algem-protocol/liquid-dapp-staking/unstaking-nastr.md)
   * [Liquid staking FAQ](algem-protocol/liquid-dapp-staking/liquid-staking-faq.md)
 * [🌊 Liquid Lending](algem-protocol/liquid-lending.md)
 * [📔 nASTR Farming](algem-protocol/nastr-farming.md)
-* [nASTR](algem-protocol/dnts.md)
+* [:droplet: nASTR](algem-protocol/dnts.md)
 * [👥 Join Algem Community](algem-protocol/join-algem-community/README.md)
   * [Ecosystem Links](algem-protocol/join-algem-community/ecosystem-links.md)
   * [Algyors Program](algem-protocol/join-algem-community/algyors-program.md)
