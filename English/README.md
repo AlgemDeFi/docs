@@ -1,4 +1,4 @@
-# Introduction
+# :wave: Introduction
 
 ![](../Thai2/.gitbook/assets/Logo.png)
 
