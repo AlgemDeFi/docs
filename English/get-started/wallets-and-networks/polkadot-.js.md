@@ -1,4 +1,4 @@
-# \* \* Polkadot{.js}
+# \* \* \* Polkadot{.js}
 
 ### Install Polkadot.js Plugin
 
@@ -6,17 +6,17 @@ To create a Polkadot.js, install the Browser Plugin available for both [Google C
 \
 After installing the plugin, you should see the orange and white Polkadot{.js} logo in your browser menu bar.
 
-![](../../../Thai2/.gitbook/assets/Polkadot1.png)
+![](../../../Indonesian/.gitbook/assets/Polkadot1.png)
 
 ### Create Polkadot.js Wallet
 
 Open the Polkadot{.js} extension and click on the + button - "Create a new account".
 
-![](../../../Thai2/.gitbook/assets/download.png)
+![](../../../Indonesian/.gitbook/assets/download.png)
 
 Polkadot{.js} will randomly generate a new seed for you and display it as twelve words. **Save these words in a safe place.**
 
-![](../../../Thai2/.gitbook/assets/Polkadot2.png)
+![](../../../Indonesian/.gitbook/assets/Polkadot2.png)
 
 Choose a descriptive name for your wallet and a password. You must enter your password a second time to confirm it.
 

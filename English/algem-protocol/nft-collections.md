@@ -10,7 +10,7 @@ Algem currently has three NFT collections:
 
 ## Algemantis NFT Collection
 
-<figure><img src="../.gitbook/assets/Banner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../Indonesian/.gitbook/assets/Banner.png" alt=""><figcaption></figcaption></figure>
 
 Algemantis is Algem's core NFT collection and represents Algem's Senators, a group of dedicated users who participate in Algem's important decisions and have access to early releases.
 
@@ -36,7 +36,7 @@ Algemantis NFTs can be traded on the secondary market on Bluez or Tofu NFT :
 
 ## Liquid Staking Discount NFT
 
-<figure><img src="../.gitbook/assets/Tofu NFT Banner.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../Indonesian/.gitbook/assets/Tofu NFT Banner.png" alt=""><figcaption></figcaption></figure>
 
 Liquid Staking Discount NFT is a collection of NFTs offering their owners a discount on the reward fee for using Aglem's Liquid dApp Staking feature.
 
@@ -53,7 +53,7 @@ Liquid Staking Discount NFT can be traded on the secondary market on Bluez or To
 
 ## Algem x Archiverse Dojo
 
-<figure><img src="../.gitbook/assets/HeaderTofu_Algem-Archiverse.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../Indonesian/.gitbook/assets/HeaderTofu_Algem-Archiverse.png" alt=""><figcaption></figcaption></figure>
 
 This NFT was offered by Algem to reward all the users who completed the campaign #AlgemDojoContest.
 

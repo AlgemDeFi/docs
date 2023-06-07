@@ -10,18 +10,18 @@ Algem’s nASTR Farming is now supporting Arthswap. nASTR holders can deposit th
 
 * Once you have staked ASTR tokens on [algem.io](http://algem.io) and received nASTR tokens, select Arthswap in the nASTR farming.
 
-<figure><img src="../../../Thai2/.gitbook/assets/1Bis.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../Indonesian/.gitbook/assets/1Bis.png" alt=""><figcaption></figcaption></figure>
 
 * Select the deposit option;
 * Enter the amount of nASTR or ASTR you want to supply; _Because Arthswap is a DEX, the pool will automatically match the second asset from the asset balances in the pool._
 * Select the option to stake LP tokens automatically;
 * Confirm the action by clicking on “Deposit” and signing the transaction in your wallet.
 
-<figure><img src="../../../Thai2/.gitbook/assets/2 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../Indonesian/.gitbook/assets/2 (3).png" alt=""><figcaption></figcaption></figure>
 
 **Option:** If you have already provided liquidity on Arthswap or staked your LP tokens, you can still deposit your LP tokens on Algem farming section.
 
-<figure><img src="../../../Thai2/.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../Indonesian/.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 #### U**nstake LP tokens and withdraw liquidity**
 
@@ -32,9 +32,9 @@ Algem’s nASTR Farming is now supporting Arthswap. nASTR holders can deposit th
 * Select the option to withdraw tokens automatically;
 * Confirm the action by clicking on “Unstake” and signing the transaction in your wallet.
 
-<figure><img src="../../../Thai2/.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../Indonesian/.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../Thai2/.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../Indonesian/.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 **Claim your rewards from the nASTR Farming**
 
@@ -42,7 +42,7 @@ Algem’s nASTR Farming is now supporting Arthswap. nASTR holders can deposit th
 * Click on the **“Claim rewards”** button and sign the transaction in your wallet;
 * Your rewards will be distributed directly into your wallet
 
-<figure><img src="../../../Thai2/.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../Indonesian/.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 ### **Be aware of risks!**
 

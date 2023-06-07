@@ -1,4 +1,4 @@
-# nASTR
+# 💧 nASTR
 
 ### Introduction to nASTR
 

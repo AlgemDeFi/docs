@@ -22,7 +22,7 @@ ALGM is the governance token of the Algem Protocol. Users can have rights and vo
 
 ### **ALGM's distribution schedule**
 
-![](<../../../Thai2/.gitbook/assets/Distribution (1).PNG>)
+![](<../../../Indonesian/.gitbook/assets/Distribution (1).PNG>)
 
 ### **ALGM's airdrop**
 

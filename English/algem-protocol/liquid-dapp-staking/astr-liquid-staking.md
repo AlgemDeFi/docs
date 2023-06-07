@@ -2,7 +2,7 @@
 
 When users deposit their ASTR tokens on Algem's liquid staking feature, they receive the same amount in nASTR tokens in return (1:1 ratio).
 
-![](<../../../Thai2/.gitbook/assets/Liquid Staking.png>)
+![](<../../../Indonesian/.gitbook/assets/Liquid Staking.png>)
 
 Deposited ASTR tokens are delegated by Algem's smart contracts directly to the Astar network's dApp Staking and begin earning staking rewards. Algem collects these rewards and distributes them, minus a small fee ([more information about our fees](https://docs.algem.io/algem-protocol/protocol-revenues)), to users based on the nASTR balance in their wallets.
 

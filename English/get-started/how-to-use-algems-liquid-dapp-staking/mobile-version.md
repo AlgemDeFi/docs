@@ -6,9 +6,9 @@ To access Algem on your phone, we recommend using the Metamask mobile app availa
 
 Once your wallet is connected to Metamask mobile and you have ASTR tokens, you can go to browser and search for [Algem.io](http://algem.io);
 
-![](../../../Thai2/.gitbook/assets/A.png)
+![](../../../Indonesian/.gitbook/assets/A.png)
 
-<figure><img src="../../../Thai2/.gitbook/assets/B.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../Indonesian/.gitbook/assets/B.png" alt=""><figcaption></figcaption></figure>
 
 ### **How to Stake:**&#x20;
 
@@ -18,7 +18,7 @@ Once your wallet is connected to Metamask mobile and you have ASTR tokens, you c
 * Receive an equal amount of nASTR tokens and begin earning staking rewards.
 * Use nASTR tokens to farm on our partners Defi dApps in our [nASTR Farming](https://docs.algem.io/get-started/how-to-use-algems-nastr-liquidity-hub);
 
-![](<../../.gitbook/assets/C (1) (1).png>)
+![](../../../French/.gitbook/assets/C.png)
 
 Once Algem has delegated your ASTR tokens to Astar dApp Staking, you will receive the same amount as the amount deposited in nASTR tokens and start earning staking rewards.
 
@@ -26,7 +26,7 @@ You can add the nASTR token to Metamask by adding the following token address or
 
 _**nASTR:**_ 0xE511ED88575C57767BAfb72BfD10775413E3F2b0
 
-<figure><img src="../../../Thai2/.gitbook/assets/F (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../Indonesian/.gitbook/assets/F (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **How to Claim:**
 
@@ -34,7 +34,7 @@ _**nASTR:**_ 0xE511ED88575C57767BAfb72BfD10775413E3F2b0
 * Then press the “claim” button and confirm the transaction;
 * Your rewards will be distributed directly to your wallet.
 
-![](<../../../Thai2/.gitbook/assets/E (1).png>)
+![](<../../../Indonesian/.gitbook/assets/E (1).png>)
 
 ### **How to Unstake:**
 
@@ -47,4 +47,4 @@ _**nASTR:**_ 0xE511ED88575C57767BAfb72BfD10775413E3F2b0
 
 You will receive your ASTR tokens directly into your wallet after fulfilling the unstaking conditions (e.g. unbonding period).
 
-<figure><img src="../../.gitbook/assets/D (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../French/.gitbook/assets/D (1).png" alt=""><figcaption></figcaption></figure>

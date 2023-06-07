@@ -1,6 +1,6 @@
 # Algyors Program
 
-![](<../../../Thai2/.gitbook/assets/Ambassador program twitter bg.png>)
+![](<../../../Indonesian/.gitbook/assets/Ambassador program twitter bg.png>)
 
 ### Welcome to the Algyors Program!
 

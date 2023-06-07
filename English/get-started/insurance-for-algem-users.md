@@ -28,7 +28,7 @@ Here are some of the **benefits** for you that InsureDAO provides.
 6. Step 6: Approve USDC
 7. Step 7: Confirm by clicking on “Purchase Insurance” and signing the transaction in your wallet
 
-<figure><img src="../../Thai2/.gitbook/assets/InsureDAO.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../Indonesian/.gitbook/assets/InsureDAO.png" alt=""><figcaption></figcaption></figure>
 
 ### How to redeem your insurance in case of a hack
 
