@@ -11,13 +11,13 @@
 **All Rewards** -> Staking rewards to claim\
 **Blocks until next reward** -> Blocks remaining until the next era and therefore until the subsequent reward distribution in the user's reward pool.
 
-![](<../../.gitbook/assets/Dashboard doc.png>)
+![](<../../../Thai2/.gitbook/assets/Dashboard doc.png>)
 
 ## Guide:
 
 Once you have your ASTR tokens in your EVM wallet, you can go to the liquid staking section in Algem dApp and connect your EVM wallet.
 
-![](<../../.gitbook/assets/Connect wallet.png>)
+![](<../../../Thai2/.gitbook/assets/Connect wallet.png>)
 
 ### **How to Stake:**&#x20;
 
@@ -27,7 +27,7 @@ Once you have your ASTR tokens in your EVM wallet, you can go to the liquid stak
 * Receive an equal amount of nASTR tokens and begin earning staking rewards.
 * Use nASTR tokens to farm on our partners Defi dApps in our [nASTR Farming](https://docs.algem.io/get-started/how-to-use-algems-nastr-liquidity-hub);
 
-![](../../.gitbook/assets/Staking.png)
+![](../../../Thai2/.gitbook/assets/Staking.png)
 
 Once Algem has delegated your ASTR tokens to Astar dApp Staking, you will receive the same amount as the amount deposited in nASTR tokens and start earning staking rewards.
 
@@ -41,7 +41,7 @@ _**nASTR:**_ 0xE511ED88575C57767BAfb72BfD10775413E3F2b0
 * Then press the “claim” button and confirm the transaction;
 * Your rewards will be distributed directly to your wallet.
 
-![](../../.gitbook/assets/Claiming.png)
+![](../../../Thai2/.gitbook/assets/Claiming.png)
 
 ### **How to Unstake:**
 
@@ -54,4 +54,4 @@ _**nASTR:**_ 0xE511ED88575C57767BAfb72BfD10775413E3F2b0
 
 You will receive your ASTR tokens directly into your wallet after fulfilling the unstaking conditions (e.g. unbonding period).
 
-![](<../../.gitbook/assets/Unstaking light.png>)
+![](<../../../Thai2/.gitbook/assets/Unstaking light.png>)

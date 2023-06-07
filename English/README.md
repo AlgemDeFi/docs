@@ -1,6 +1,6 @@
-# 👋  Introduction
+# Introduction
 
-![](.gitbook/assets/Logo.png)
+![](../Thai2/.gitbook/assets/Logo.png)
 
 Algem is a native liquid staking DeFi dApp on top of Astar Network offering new ways for ASTR users and holders to earn more.
 

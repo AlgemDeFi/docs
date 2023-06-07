@@ -1,4 +1,4 @@
-# 💦  Liquid dApp Staking
+# Liquid dApp Staking
 
 {% embed url="https://www.youtube.com/watch?v=8O6eHya-hvU&t=2s" %}
 

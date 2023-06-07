@@ -10,7 +10,7 @@ Liquid lending uses the exact mechanisms as liquid staking, but instead of inter
 
 Through Algem, ASTR holders can provide or lend their tokens to lending or staking platforms, stablecoin projects, decentralized exchanges, or other defi protocols.
 
-![](<../.gitbook/assets/Liquid Lending1.PNG>)
+![](<../../Thai2/.gitbook/assets/Liquid Lending1.PNG>)
 
 Algem liquid lending is developed around 3 vaults with different durations (100/200/300 days) and ALGM incentives.
 

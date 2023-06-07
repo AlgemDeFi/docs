@@ -2,7 +2,7 @@
 
 The nASTR Farming – which we previously referred to as nASTR Liquidity Hub – is a group of **intermediate contracts** that improve the user experience by allowing nASTR holders to interact with other protocols to use their nASTR tokens directly on Algem.
 
-<figure><img src="../.gitbook/assets/Article.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../Thai2/.gitbook/assets/Article.png" alt=""><figcaption></figcaption></figure>
 
 nASTR farming contracts receive $nASTR tokens and then proxy the actions to the selected protocol. Once locked in the contract, the balance cannot be changed unless removing the liquidity.
 

@@ -14,4 +14,4 @@ When transferring nASTR tokens from a specific dApp, utilize Algem's transfer fe
 * Enter the destination EVM address;
 * Confirm your action by clicking on the send button.
 
-<figure><img src="../.gitbook/assets/Send nASTR.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../Thai2/.gitbook/assets/Send nASTR.png" alt=""><figcaption></figcaption></figure>

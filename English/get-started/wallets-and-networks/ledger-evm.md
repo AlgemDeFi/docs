@@ -35,7 +35,7 @@ When you connect Metamask to Algem dApp, Algem will automatically change the Met
 3. Search for “Astar EVM” in the app catalog
 4. Click install
 
-<figure><img src="../../.gitbook/assets/B (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../Thai2/.gitbook/assets/B (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Connecting your Ledger device to MetaMask**
 
@@ -44,11 +44,11 @@ When you connect Metamask to Algem dApp, Algem will automatically change the Met
 3. Pair and connect your Device when prompted by the browser:
 4. Select an account you wish to connect and click “Unlock”
 
-<figure><img src="../../.gitbook/assets/Ad.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../Thai2/.gitbook/assets/Ad.png" alt=""><figcaption></figcaption></figure>
 
 5\. You should now see your account and balance:
 
-<figure><img src="../../.gitbook/assets/C (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../Thai2/.gitbook/assets/C (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Receiving tokens
 
@@ -60,7 +60,7 @@ To receive tokens, copy the address of your connected account by clicking your a
 2. In MetaMask click “Send” button and enter the address you wish to send to
 3. Enter the amount to send and click “Next”
 
-<figure><img src="../../.gitbook/assets/D (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../Thai2/.gitbook/assets/D (2).png" alt=""><figcaption></figcaption></figure>
 
 4\. When your Ledger device screen is showing “Application is ready”, click “Confirm” in MetaMask
 
@@ -83,7 +83,7 @@ In order to interact with smart contracts, you need to enable blind signing in t
 3. Confirm the “Blind signing” option, so it turns to “Enabled”
 4. Navigate to “Back” and confirm
 
-<figure><img src="../../.gitbook/assets/E.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../Thai2/.gitbook/assets/E.png" alt=""><figcaption></figcaption></figure>
 
 ## Use your Ledger EVM on Algem
 
@@ -93,7 +93,7 @@ Once you have configured your ledger, enabled smart-contracts and connected it t
 
 It will work the same way as a normal Metamask wallet but you will need to confirm every action and transaction on your ledger device.
 
-<figure><img src="../../.gitbook/assets/Fb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../Thai2/.gitbook/assets/Fb.png" alt=""><figcaption></figcaption></figure>
 
 1. Enter the amount of ASTR token you would like to stake (minimum of 100 ASTR);
 2. Confirm your action by clicking on the stake button.
@@ -105,7 +105,7 @@ It will work the same way as a normal Metamask wallet but you will need to confi
    4. Check fees
    5. Approve the transaction
 
-<figure><img src="../../.gitbook/assets/G.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../Thai2/.gitbook/assets/G.png" alt=""><figcaption></figcaption></figure>
 
 Once Algem has delegated your ASTR tokens to Astar dApp Staking, you will receive the same amount as the amount deposited in nASTR tokens and start earning staking rewards directly on your ledger address.
 
@@ -113,6 +113,6 @@ You can add the nASTR token to Metamask by adding the following token address or
 
 _**nASTR:**_ 0xE511ED88575C57767BAfb72BfD10775413E3F2b0
 
-<figure><img src="../../.gitbook/assets/H.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../Thai2/.gitbook/assets/H.png" alt=""><figcaption></figcaption></figure>
 
 To use your nASTR tokens in Algem's nASTR Liquidity Hub, please choose one of the different projects available and follow the corresponding guide. The only difference will be to confirm each transaction using your ledger device as explained above.
