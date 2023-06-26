@@ -27,7 +27,7 @@
 * [💼 Wallets & Networks](get-started/wallets-and-networks/README.md)
   * [🦊 Metamask](get-started/wallets-and-networks/metamask.md)
   * [🔑 Ledger EVM](get-started/wallets-and-networks/ledger-evm.md)
-  * [\* \* \* Polkadot{.js}](get-started/wallets-and-networks/polkadot-.js.md)
+  * [\* Polkadot{.js}](get-started/wallets-and-networks/polkadot-.js.md)
 * [🔀 Transfer assets to Astar Network EVM](get-started/transfer-assets-to-astar-network-evm/README.md)
   * [🏦 From a CEX](get-started/transfer-assets-to-astar-network-evm/from-a-cex.md)
   * [🌀 Using Astar Network Portal](get-started/transfer-assets-to-astar-network-evm/using-astar-network-portal.md)
