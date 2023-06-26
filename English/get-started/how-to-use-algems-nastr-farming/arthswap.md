@@ -4,7 +4,7 @@ With simple UI, [ArthSwap](https://www.arthswap.org/) enables High-Frequency Tra
 
 Algem’s nASTR Farming is now supporting Arthswap. nASTR holders can deposit their tokens to provide liquidity in the nASTR:ASTR pair. In return, they will receive LP tokens and can stake them on Algem to earn extra trading fees and rewards from Arthswap farms.
 
-### **How to farm nASTR/ASTR with Arthswap**
+## **How to farm nASTR/ASTR with Arthswap**
 
 #### Provide liquidity and stake LP tokens
 
@@ -44,7 +44,7 @@ Algem’s nASTR Farming is now supporting Arthswap. nASTR holders can deposit th
 
 <figure><img src="../../../Indonesian/.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
-### **Be aware of risks!**
+## **Be aware of risks!**
 
 Before using a DEX like Arthswap, be sure you are aware of the risks:
 
@@ -52,7 +52,7 @@ Before using a DEX like Arthswap, be sure you are aware of the risks:
 
 **Smart-contract risks.** [Arthswap has been already audited by Quantstamp](https://certificate.quantstamp.com/full/arth-swap) but please keep in mind that security audits don’t completely eliminate risks. Do not supply assets that you cannot afford to lose to Arthswap as a liquidity provider.
 
-### Smart Contracts:
+## Smart Contracts:
 
 <table><thead><tr><th width="153">Type</th><th>Contract address</th></tr></thead><tbody><tr><td>Pool Contract</td><td><a href="https://blockscout.com/astar/address/0xE915D2393a08a00c5A463053edD31bAe2199b9e7">0xE915D2393a08a00c5A463053edD31bAe2199b9e7</a></td></tr><tr><td>LP Contract</td><td><a href="https://blockscout.com/astar/address/0xb4461721d3AD256CD59D207fEfBfE05791Ef8568">0xb4461721d3AD256CD59D207fEfBfE05791Ef8568</a></td></tr><tr><td>MasterChef</td><td><a href="https://blockscout.com/astar/address/0xc5b016c5597D298Fe9eD22922CE290A048aA5B75">0xc5b016c5597D298Fe9eD22922CE290A048aA5B75</a></td></tr></tbody></table>
 

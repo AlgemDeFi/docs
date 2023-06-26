@@ -38,9 +38,10 @@
   * [🖥 Desktop version](get-started/how-to-use-algems-liquid-dapp-staking/desktop-version.md)
   * [📱 Mobile version](get-started/how-to-use-algems-liquid-dapp-staking/mobile-version.md)
 * [🦈 How to use Algem's nASTR Farming](get-started/how-to-use-algems-nastr-farming/README.md)
-  * [👨🌾 👨🌾 👨🌾 Sirius Finance](get-started/how-to-use-algems-nastr-farming/sirius-finance.md)
+  * [👨🌾 Sirius Finance](get-started/how-to-use-algems-nastr-farming/sirius-finance.md)
   * [🌽 Kagla Finance](get-started/how-to-use-algems-nastr-farming/kagla-finance.md)
   * [🥕 Arthswap](get-started/how-to-use-algems-nastr-farming/arthswap.md)
+  * [🍋 SiO2 Finance](get-started/how-to-use-algems-nastr-farming/sio2-finance.md)
 * [🐠 How to transfer nASTR tokens with Algem](get-started/how-to-transfer-nastr-tokens-with-algem.md)
 * [🐚 Insurance for Algem users](get-started/insurance-for-algem-users.md)
 
