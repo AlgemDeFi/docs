@@ -8,7 +8,7 @@ Algem’s nASTR Farming is now supporting SiO2 Finance. nASTR holders can lend t
 
 Once you have staked ASTR tokens on [algem.io](http://algem.io/) and received nASTR tokens, select SiO2 Finance in the nASTR farming.
 
-⚠️ Warning: Before borrowing other assets on SiO2, be sure to understand [the concept of Health Factor, Borrowing limit and liquidation using a lending plateform](https://app.gitbook.com/s/YrkY8PCzzyHqe2iNEHfd/\~/changes/4/get-started/how-to-use-algems-nastr-farming/sio2-finance#be-aware-of-risks). ⚠️
+**⚠️ Warning: Before borrowing other assets on SiO2, be sure to understand** [**the concept of Health Factor, Borrowing limit and liquidation using a lending plateform**](https://app.gitbook.com/s/YrkY8PCzzyHqe2iNEHfd/\~/changes/4/get-started/how-to-use-algems-nastr-farming/sio2-finance#be-aware-of-risks)**. ⚠️**
 
 From the launch of the adapter, only the ASTR token can be borrowed for the first few weeks, to avoid the risk of liquidation while Algem users familiarize themselves with the concept of the lending platform.
 
@@ -111,8 +111,13 @@ From 1000 ASTR, you are now receive staking rewards of 1500 nASTR (1000 ASTR dep
 
 Before using a Lending protocol like SiO2 Finance, be sure you are aware of the risks:
 
-* **Liquidation:** Like all types of lending, Defi lending carry the risk of borrower default. When a user borrows on a lending platform, a "health factor" is associated with his or her position. The health factor (HF) is an indicator of the security of a deposited position compared to a borrowed position. The higher the HF, the safer the deposited assets are from liquidation. If the HF falls below 1, the deposited assets may be liquidated. A liquidation is a process in which up to X % of a borrower's debt is repaid, and this value + the liquidation fee is taken from the user's available collateral. After liquidation, the liquidated amount of debt is repaid. To avoid liquidation, make sure your HF is greater than 1. A user can increase his HF by depositing more collateral assets or by repaying part of the loan. See more in [SiO2 Finance’s documentation](https://sio2-finance.gitbook.io/en/systems/risk-parameters).
-* **Smart-contract risks.** SiO2 Finance is developed based on Aave V2 which is already [heavily audited](https://docs.aave.com/developers/v/2.0/security-and-audits). SiO2 has been also [audited by PeckShield](https://github.com/SiO2-Finance/contracts/tree/main/audits) but please keep in mind that security audits don’t completely eliminate risks. Do not supply assets that you cannot afford to lose to SiO2 Finance as a lender.
+* **Liquidation:** Like all types of lending, Defi lending carry the risk of borrower default. When a user borrows on a lending platform, a "health factor" is associated with his or her position. The health factor (HF) is an indicator of the security of a deposited position compared to a borrowed position. The higher the HF, the safer the deposited assets are from liquidation. \
+  \
+  If the HF falls below 1, the deposited assets may be liquidated. A liquidation is a process in which up to X % of a borrower's debt is repaid, and this value + the liquidation fee is taken from the user's available collateral. After liquidation, the liquidated amount of debt is repaid. To avoid liquidation, make sure your HF is greater than 1. \
+  \
+  A user can increase his HF by depositing more collateral assets or by repaying part of the loan. See more in [SiO2 Finance’s documentation](https://sio2-finance.gitbook.io/en/systems/risk-parameters).
+* **Smart-contract risks.** SiO2 Finance is developed based on Aave V2 which is already [heavily audited](https://docs.aave.com/developers/v/2.0/security-and-audits). SiO2 has been also [audited by PeckShield](https://github.com/SiO2-Finance/contracts/tree/main/audits) but please keep in mind that security audits don’t completely eliminate risks. \
+  Do not supply assets that you cannot afford to lose to SiO2 Finance as a lender.
 
 ## Smart-contracts:
 
