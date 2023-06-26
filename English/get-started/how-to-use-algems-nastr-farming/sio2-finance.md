@@ -114,7 +114,6 @@ Before using a Lending protocol like SiO2 Finance, be sure you are aware of the 
 * **Liquidation:** Like all types of lending, Defi lending carry the risk of borrower default. When a user borrows on a lending platform, a "health factor" is associated with his or her position. The health factor (HF) is an indicator of the security of a deposited position compared to a borrowed position. The higher the HF, the safer the deposited assets are from liquidation. \
   \
   If the HF falls below 1, the deposited assets may be liquidated. A liquidation is a process in which up to X % of a borrower's debt is repaid, and this value + the liquidation fee is taken from the user's available collateral. After liquidation, the liquidated amount of debt is repaid. To avoid liquidation, make sure your HF is greater than 1. \
-  \
   A user can increase his HF by depositing more collateral assets or by repaying part of the loan. See more in [SiO2 Finance’s documentation](https://sio2-finance.gitbook.io/en/systems/risk-parameters).
 * **Smart-contract risks.** SiO2 Finance is developed based on Aave V2 which is already [heavily audited](https://docs.aave.com/developers/v/2.0/security-and-audits). SiO2 has been also [audited by PeckShield](https://github.com/SiO2-Finance/contracts/tree/main/audits) but please keep in mind that security audits don’t completely eliminate risks. \
   Do not supply assets that you cannot afford to lose to SiO2 Finance as a lender.
