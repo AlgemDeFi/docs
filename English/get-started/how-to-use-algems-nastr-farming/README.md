@@ -4,7 +4,7 @@ The nASTR Farming – which we previously referred to as nASTR Liquidity Hub –
 
 Once you have staked your ASTR tokens on Algem and received your nASTR, you can choose one of the available protocols where you want to use your tokens.
 
-At the moment, the three dApps supported by the Algem Adapter Contracts are Sirius Finance, Kagla Finance and Arthswap.
+At the moment, the four dApps supported by the Algem Adapter Contracts are Sirius Finance, Kagla Finance, Arthswap and SiO2 Finance.
 
 {% content-ref url="sirius-finance.md" %}
 [sirius-finance.md](sirius-finance.md)
@@ -16,6 +16,10 @@ At the moment, the three dApps supported by the Algem Adapter Contracts are Siri
 
 {% content-ref url="arthswap.md" %}
 [arthswap.md](arthswap.md)
+{% endcontent-ref %}
+
+{% content-ref url="sio2-finance.md" %}
+[sio2-finance.md](sio2-finance.md)
 {% endcontent-ref %}
 
 **For all the users farming already with nASTR tokens on Sirius or Kagla Finance, you must stake your Gauge tokens in Algem’s nASTR Farming to keep earning staking rewards.**
