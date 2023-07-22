@@ -28,7 +28,7 @@ At the moment, the four dApps supported by the Algem Adapter Contracts are Siriu
 
 ### How to provide liquidity and stake LP tokens
 
-* Chose a dApp in the [nASTR Farming section](https://app.algem.io/liquid-staking);
+* Choose a dApp in the [nASTR Farming section](https://app.algem.io/liquid-staking);
 
 <figure><img src="../../../Indonesian/.gitbook/assets/nASTR Liquidity hub.png" alt=""><figcaption></figcaption></figure>
 
