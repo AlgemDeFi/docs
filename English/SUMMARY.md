@@ -43,7 +43,6 @@
   * [🥕 Arthswap](get-started/how-to-use-algems-nastr-farming/arthswap.md)
   * [🍋 SiO2 Finance](get-started/how-to-use-algems-nastr-farming/sio2-finance.md)
 * [🐠 How to transfer nASTR tokens with Algem](get-started/how-to-transfer-nastr-tokens-with-algem.md)
-* [🐚 Insurance for Algem users](get-started/insurance-for-algem-users.md)
 
 ## 🔧 Development
 

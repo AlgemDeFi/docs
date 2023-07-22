@@ -11,6 +11,6 @@ You can find below the different audits passed by Algem:
 * [Algem Smart Contract Security Assessment by Dedaub;](https://github.com/AlgemDeFi/audits/blob/main/Algem%20Smart%20Contract%20Security%20Assessment%20-%2026%20Jan%202023.pdf)
 * [Algem Lending Adapter Contract by Dedaub;](https://github.com/AlgemDeFi/audits/blob/main/Algem%20Audit%20Lending%20Adapter%20-%20Dedaub.pdf)
 
-## Tokenomic:
+## Tokenomics:
 
 [Algem Tokenomics Audit](https://github.com/AlgemDeFi/audits/blob/main/Algem%20Tokenomics%20Audit.pdf) by [Dr Stylianos Kampakis](https://uk.linkedin.com/in/dr-stylianos-kampakis)
