@@ -42,7 +42,6 @@
   * [🌽 Kagla Finance](memulai/cara-menggunakan-nastr-farming-algem/kagla-finance.md)
   * [🥕 Arthswap](memulai/cara-menggunakan-nastr-farming-algem/arthswap.md)
 * [🐠 Cara mentransfer token nASTR dengan Algem](memulai/cara-mentransfer-token-nastr-dengan-algem.md)
-* [🐚 Insurance for Algem users](memulai/insurance-for-algem-users.md)
 
 ## 🔧 Perkembangan
 
