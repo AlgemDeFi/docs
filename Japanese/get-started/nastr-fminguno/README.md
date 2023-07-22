@@ -6,16 +6,16 @@ $ASTRをステーキングし$nASTRを受け取ると、運用先のパートナ
 
 現在はシリウスファイナンス、カグラファイナンス、アーススワップ、SiO2ファイナンスにスマートコントラクトが対応しています。
 
-{% content-ref url="shiriusufainansu.md" %}
-[shiriusufainansu.md](shiriusufainansu.md)
+{% content-ref url="sirius-finance.md" %}
+[sirius-finance.md](sirius-finance.md)
 {% endcontent-ref %}
 
-{% content-ref url="kagurafainansu.md" %}
-[kagurafainansu.md](kagurafainansu.md)
+{% content-ref url="kagla-finance.md" %}
+[kagla-finance.md](kagla-finance.md)
 {% endcontent-ref %}
 
-{% content-ref url="susuwappu.md" %}
-[susuwappu.md](susuwappu.md)
+{% content-ref url="arthswap.md" %}
+[arthswap.md](arthswap.md)
 {% endcontent-ref %}
 
 **既にシリウスファイナンス、カグラファイナンスで$nASTRを運用している方へ。 報酬を得るためにはゴージトークンのステーキングが必須です。**
