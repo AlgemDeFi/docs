@@ -42,7 +42,6 @@
   * [🌽 Kagla Finance](kak-nachat/kak-ispolzovat-algems-nastr-farming/kagla-finance.md)
   * [🥕 Arthswap](kak-nachat/kak-ispolzovat-algems-nastr-farming/arthswap.md)
 * [🐠 Как перевести токены nASTR с помощью Algem](kak-nachat/kak-perevesti-tokeny-nastr-s-pomoshyu-algem.md)
-* [🐚 Insurance for Algem users](kak-nachat/insurance-for-algem-users.md)
 
 ## 🔧 Развитие
 
