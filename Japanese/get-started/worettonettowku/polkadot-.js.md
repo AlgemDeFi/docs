@@ -1,23 +1,23 @@
 # \* Polkadot{.js}
 
-### Install Polkadot.js Plugin
+### Polkadot.js プラグインをインストール
 
-To create a Polkadot.js, install the Browser Plugin available for both [Google Chrome](https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd?hl=en) (and Chromium-based browsers like Brave) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/polkadot-js-extension/). \
+プラグインをインストール [Google Chrome](https://chrome.google.com/webstore/detail/polkadot%7Bjs%7D-extension/mopnmbcafieddcagagdcbnhejhlodfdd?hl=en) (chromiumベースのBraveなど）, [Firefox](https://addons.mozilla.org/en-US/firefox/addon/polkadot-js-extension/)\
 \
-After installing the plugin, you should see the orange and white Polkadot{.js} logo in your browser menu bar.
+インストールが完了すると、ブラウザ右上に白とオレンジのPokadotロゴが確認できます。
 
 ![](../../.gitbook/assets/Polkadot1.png)
 
-### Create Polkadot.js Wallet
+### Pokadot.jsウォレットを作成
 
-Open the Polkadot{.js} extension and click on the + button - "Create a new account".
+Pokadot.jsを開き右上の+ボタンをクリックし"Create a new account"を選択
 
 ![](../../.gitbook/assets/download.png)
 
-Polkadot{.js} will randomly generate a new seed for you and display it as twelve words. **Save these words in a safe place.**
+12文字のシードフレーズがランダム生成されます。シードフレーズのメモは安全に保管して下さい。
 
 ![](../../.gitbook/assets/Polkadot2.png)
 
-Choose a descriptive name for your wallet and a password. You must enter your password a second time to confirm it.
+ウォレット名とパスワードを設定。パスワードは2回入力する必要があります。
 
-Congratulations, you have just created your first polkadot (native) substrate wallet!
+ポルカドットネイティブなサブストレイト用のウォレットの完成です！

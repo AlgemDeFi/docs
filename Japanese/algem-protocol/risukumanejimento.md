@@ -21,6 +21,6 @@
 
 $nASTRを他プロジェクトで運用する際のリスクについては以下をご参照下さい。
 
-* [シリウスファイナンス利用時のリスク](../get-started/how-to-use-algems-nastr-farming/sirius-finance.md)
-* [カグラファイナンス利用時のリスク](../get-started/how-to-use-algems-nastr-farming/kagla-finance.md)
-* [アーススワップ利用時のリスク](../get-started/how-to-use-algems-nastr-farming/arthswap.md)
+* [シリウスファイナンス利用時のリスク](../get-started/nastr-fminguno/sirius-finance.md)
+* [カグラファイナンス利用時のリスク](../get-started/nastr-fminguno/kagla-finance.md)
+* [アーススワップ利用時のリスク](../get-started/nastr-fminguno/arthswap.md)
