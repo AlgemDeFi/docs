@@ -2,8 +2,8 @@
 
 AlgemのLiquid dApp Stakingを使用する前に、技術資料を読んで、Liquid stakingの仕組みや考え方を理解してください。
 
-{% content-ref url="../../algem-protocol/liquid-dapp-staking/" %}
-[liquid-dapp-staking](../../algem-protocol/liquid-dapp-staking/)
+{% content-ref url="../../algem-protocol/rikiddodappsutkingu/" %}
+[rikiddodappsutkingu](../../algem-protocol/rikiddodappsutkingu/)
 {% endcontent-ref %}
 
 Algem dAppは、デスクトップ版とモバイル版の両方に対応しています。
