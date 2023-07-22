@@ -1,6 +1,6 @@
-# 📃 Contracts
+# 📃 コントラクト
 
-AlgemのSmart ContractsをGithubで見る：
+Githubでアルジェムのスマートコントラクトが確認できます
 
 {% embed url="https://github.com/AlgemDeFi/algem-contracts" %}
 

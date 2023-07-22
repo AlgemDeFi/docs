@@ -38,14 +38,14 @@
   * [🖥 デスクトップでの利用方法](get-started/rikiddodappsutkinguno/desukutoppudeno.md)
   * [📱 モバイルでの利用](get-started/rikiddodappsutkinguno/mobairudeno.md)
 * [🦈 $nASTR ファーミングの利用方法](get-started/nastr-fminguno/README.md)
-  * [👨🌾 Sirius Finance](get-started/nastr-fminguno/sirius-finance.md)
-  * [🌽 Kagla Finance](get-started/nastr-fminguno/kagla-finance.md)
-  * [🥕 Arthswap](get-started/nastr-fminguno/arthswap.md)
-* [🐠 AlgemでnASTRトークンを送金する方法。](get-started/algemdenastrtkunwosuru.md)
+  * [👨🌾 シリウスファイナンス](get-started/nastr-fminguno/shiriusufainansu.md)
+  * [🌽 カグラファイナンス](get-started/nastr-fminguno/kagurafainansu.md)
+  * [🥕 アーススワップ](get-started/nastr-fminguno/susuwappu.md)
+* [🐠 $nASTRの送金方法](get-started/nastrno.md)
 * [🐚 Insurance for Algem users](get-started/insurance-for-algem-users.md)
 
 ## 🔧 Development
 
 * [🕵 監査](development/jian-cha.md)
-* [📃 Contracts](development/contracts.md)
-* [🧵 nASTR Price Feeds by DIA](development/nastr-price-feeds-by-dia.md)
+* [📃 コントラクト](development/kontorakuto.md)
+* [🧵 nDIAによる$nASTRの価格参照](development/ndianiyorunastrno.md)
