@@ -21,3 +21,7 @@ With new version 1.5 of Liquid Staking, Algem adopts the dApp Staking philosophy
 {% content-ref url="liquid-staking-faq.md" %}
 [liquid-staking-faq.md](liquid-staking-faq.md)
 {% endcontent-ref %}
+
+See our step-by-step guide to Liquid dApp Staking with Algem:
+
+[how-to-use-algems-liquid-dapp-staking](../../get-started/how-to-use-algems-liquid-dapp-staking/ "mention")
