@@ -25,3 +25,9 @@ Unstaking period varies from 10 ERAs to 13 ERAs (approximately 10-13 days).
 ### Q: Why so? In the Astar Network dApp staking unstaking period is 10 ERAs
 
 DApp staking has a limit of 4 unbonding calls/user during the 10 days. Since our liquid staking contract is basically a user, Algem groups all unbonding calls into bunches and sends them to the dApp staking 4 times/10 days. That is why If you unstake ASTR at the beginning of this cycle, your unstaking period will be 13 ERAs.
+
+**See our step-by-step guide to unstake your nASTR:**
+
+{% content-ref url="../../get-started/how-to-use-algems-liquid-dapp-staking/" %}
+[how-to-use-algems-liquid-dapp-staking](../../get-started/how-to-use-algems-liquid-dapp-staking/)
+{% endcontent-ref %}
