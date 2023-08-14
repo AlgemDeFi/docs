@@ -111,10 +111,18 @@ From 1000 ASTR, you are now receive staking rewards of 1500 nASTR (1000 ASTR dep
 
 Before using a Lending protocol like SiO2 Finance, be sure you are aware of the risks:
 
-* **Liquidation:** Like all types of lending, Defi lending carry the risk of borrower default. When a user borrows on a lending platform, a "health factor" is associated with his or her position. The health factor (HF) is an indicator of the security of a deposited position compared to a borrowed position. The higher the HF, the safer the deposited assets are from liquidation. \
-  \
-  If the HF falls below 1, the deposited assets may be liquidated. A liquidation is a process in which up to X % of a borrower's debt is repaid, and this value + the liquidation fee is taken from the user's available collateral. After liquidation, the liquidated amount of debt is repaid. To avoid liquidation, make sure your HF is greater than 1. \
-  A user can increase his HF by depositing more collateral assets or by repaying part of the loan. See more in [SiO2 Finance’s documentation](https://sio2-finance.gitbook.io/en/systems/risk-parameters).
+*   **Liquidation:** Similar to all forms of Defi lending, there exists a risk of borrower default in Defi lending. When a user engages in borrowing within a lending platform, their position becomes associated with a "health factor." This health factor (HF) serves as an indicator of the security level of a deposited position compared to the borrowed position. A higher HF signifies a more secure state for the assets deposited, reducing the likelihood of liquidation.
+
+
+
+    In instances where the HF drops below 1, the assets held in deposit may be subjected to liquidation. Liquidation involves a process where a portion of the borrower's debt, up to a specified percentage (X %), is settled. This value, along with the applicable liquidation fee, is deducted from the user's available collateral. Subsequently, the liquidated debt amount is repaid. To prevent liquidation, it is crucial to maintain an HF exceeding 1.
+
+
+
+    To consolidate the Health factor, users have the option of increasing their collateral or partially repaying the loan amount
+
+    \
+    &#x20;See more in [SiO2 Finance’s documentation](https://sio2-finance.gitbook.io/en/systems/risk-parameters).
 * **Smart-contract risks.** SiO2 Finance is developed based on Aave V2 which is already [heavily audited](https://docs.aave.com/developers/v/2.0/security-and-audits). SiO2 has been also [audited by PeckShield](https://github.com/SiO2-Finance/contracts/tree/main/audits) but please keep in mind that security audits don’t completely eliminate risks. \
   Do not supply assets that you cannot afford to lose to SiO2 Finance as a lender.
 
