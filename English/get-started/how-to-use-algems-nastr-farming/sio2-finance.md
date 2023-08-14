@@ -8,7 +8,7 @@ Algem’s nASTR Farming is now supporting SiO2 Finance. nASTR holders can lend t
 
 Once you have staked ASTR tokens on [algem.io](http://algem.io/) and received nASTR tokens, select SiO2 Finance in the nASTR farming.
 
-**⚠️ Warning: Before borrowing other assets on SiO2, be sure to understand** [**the concept of Health Factor, Borrowing limit and liquidation using a lending plateform**](https://app.gitbook.com/s/YrkY8PCzzyHqe2iNEHfd/\~/changes/4/get-started/how-to-use-algems-nastr-farming/sio2-finance#be-aware-of-risks)**. ⚠️**
+**⚠️ Warning: Before borrowing other assets on SiO2, be sure to understand** [**the concept of Health Factor, Borrowing limit and liquidation using a lending plateform.**](https://docs.algem.io/get-started/how-to-use-algems-nastr-farming/sio2-finance#be-aware-of-risks) **⚠️**
 
 From the launch of the adapter, only the ASTR token can be borrowed for the first few weeks, to avoid the risk of liquidation while Algem users familiarize themselves with the concept of the lending platform.
 
