@@ -20,4 +20,4 @@ Suppose the ASTR:nASTR ratio increases from 1. Then, traders can buy nASTR token
 
 ### nASTR ecosystem
 
-During our future iteration, we will concentrate on developing the infrastructure to use nASTR inside Algem. We call it the nASTR market with these use cases: Buy or sell nASTR; Use nASTR as a collator. Users can take loans against their nASTR if they think they can use their credit money more efficiently than a loan percentage rate; Swap (our AMM).
+During our future iteration, we will concentrate on developing the infrastructure to use nASTR inside Algem. We call it the nASTR market with these use cases: Buy or sell nASTR; Use nASTR as a collateral. Users can take loans against their nASTR if they think they can use their credit money more efficiently than a loan percentage rate; Swap (our AMM).
