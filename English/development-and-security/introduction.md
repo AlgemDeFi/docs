@@ -4,7 +4,7 @@ Security ranks supreme in Algem's priorities. We understand security as an ongoi
 
 ### Algem's security roadmap: A global approach
 
-Our Algem Security Roadmap embodies our strong position. It describes the key parameters we address to establish comprehensive security.&#x20;
+Our [Algem Security Roadmap](https://kiwi-professor-a36.notion.site/Algem-Security-Roadmap-52ccab54b5554383ac10fbb601527ee9) embodies our strong position. It describes the key parameters we address to establish comprehensive security.&#x20;
 
 ### Algem contract documentation: Focus on transparency
 
