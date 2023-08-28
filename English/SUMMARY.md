@@ -44,8 +44,10 @@
   * [🍋 SiO2 Finance](get-started/how-to-use-algems-nastr-farming/sio2-finance.md)
 * [🐠 How to transfer nASTR tokens with Algem](get-started/how-to-transfer-nastr-tokens-with-algem.md)
 
-## 🔧 Development
+## 🔧 Development and Security
 
-* [🕵 Audit](development/audit.md)
-* [📃 Contracts](development/contracts.md)
-* [🧵 nASTR Price Feeds by DIA](development/nastr-price-feeds-by-dia.md)
+* [🚶 Introduction](development-and-security/introduction.md)
+* [📃 Contracts information](development-and-security/contracts.md)
+* [🏗 Internal practices](development-and-security/internal-practices.md)
+* [🕵 Audit](development-and-security/audit.md)
+* [🧵 nASTR Price Feeds by DIA](development-and-security/nastr-price-feeds-by-dia.md)
