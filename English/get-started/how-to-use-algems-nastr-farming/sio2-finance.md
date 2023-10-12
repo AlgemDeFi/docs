@@ -14,13 +14,13 @@ From the launch of the adapter, only the ASTR token can be borrowed for the firs
 
 ### **nASTR Market Details:**
 
-**Loan to Value : 50%** - You can borrow up to 50% of your nASTR Collateral Value;
+**Loan to Value : 40%** - You can borrow up to 40% of your nASTR Collateral Value;
 
-**Liquidation Threshold : 60%** - Up to 60% of a borrower's debt is repaid and that value + liquidation fee is taken from the collateral available.
+**Liquidation Threshold : 48%** -  If the borrowed value rises over 48% of the collateral, the position is collateral deficient.
 
-_The liquidation threshold is typically higher than the LTV ratio. For example, if the liquidation threshold for an asset is 60%, and a borrower has borrowed to the maximum LTV of 50%, if the value of their collateral falls such that their loan now represents 60% or more of the value of their collateral, their collateral will be liquidated._
+_The liquidation threshold is typically higher than the LTV ratio. For example, if the liquidation threshold for an asset is 48%, and a borrower has borrowed to the maximum LTV of 40%, if the value of their collateral falls such that their loan now represents 48% or more of the value of their collateral, their collateral will be liquidated._
 
-_Example: Suppose a user deposits 10000 ASTR worth $1000 as collateral. With an LTV ratio of 50%, they can borrow up to $500 worth of another asset. If the price of ASTR drops such that the value of their collateral falls to $833.33, their loan now represents 60% of the value of their collateral ($500/$833.33 = 60%). At this point, the platform will initiate liquidation of the borrower's collateral to repay the loan._
+_Example: Suppose a user deposits 10000 ASTR worth $1000 as collateral. With an LTV ratio of 40%, they can borrow up to $400 worth of another asset. If the price of ASTR drops such that the value of their collateral falls to $833.33, their loan now represents 60% of the value of their collateral ($400/$833.33 = 48%). At this point, the platform will initiate liquidation of the borrower's collateral to repay the loan._
 
 **Liquidation Penalty : 12.50%**
 
