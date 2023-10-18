@@ -41,6 +41,7 @@
   * [👨🌾 シリウスファイナンス](get-started/nastr-fminguno/sirius-finance.md)
   * [🌽 カグラファイナンス](get-started/nastr-fminguno/kagla-finance.md)
   * [🥕 アーススワップ](get-started/nastr-fminguno/arthswap.md)
+  * [🍋 SiO2 Finance](get-started/nastr-fminguno/sio2-finance.md)
 * [🐠 $nASTRの送金方法](get-started/algemdenastrtkunwosuru.md)
 
 ## 🔧 Development
