@@ -20,7 +20,7 @@ From the launch of the adapter, only the ASTR token can be borrowed for the firs
 
 _The liquidation threshold is typically higher than the LTV ratio. For example, if the liquidation threshold for an asset is 48%, and a borrower has borrowed to the maximum LTV of 40%, if the value of their collateral falls such that their loan now represents 48% or more of the value of their collateral, their collateral will be liquidated._
 
-_Example: Suppose a user deposits 10000 ASTR worth $1000 as collateral. With an LTV ratio of 40%, they can borrow up to $400 worth of another asset. If the price of ASTR drops such that the value of their collateral falls to $833.33, their loan now represents 60% of the value of their collateral ($400/$833.33 = 48%). At this point, the platform will initiate liquidation of the borrower's collateral to repay the loan._
+_Example: Suppose a user deposits 10000 ASTR worth $1000 as collateral. With an LTV ratio of 40%, they can borrow up to $400 worth of another asset. If the price of ASTR drops such that the value of their collateral falls to $833.33, their loan now represents 48% of the value of their collateral ($400/$833.33 = 48%). At this point, the platform will initiate liquidation of the borrower's collateral to repay the loan._
 
 **Liquidation Penalty : 12.50%**
 
