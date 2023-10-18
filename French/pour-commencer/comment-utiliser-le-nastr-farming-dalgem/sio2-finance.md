@@ -28,7 +28,7 @@ _La pénalité de liquidation est une charge supplémentaire qui est appliquée 
 
 _La pénalité de liquidation s'ajoute au montant que l'emprunteur doit au moment de la liquidation. La garantie de l'emprunteur est vendue jusqu'au remboursement du prêt plus la pénalité de liquidation._
 
-_Exemple : en utilisant le même exemple, supposons qu'il y ait une pénalité de liquidation de 12,5%. Si le prêt de 500$ de l'emprunteur est liquidé, un montant supplémentaire de 62,5$ (12,5% de 500$) est ajouté au montant qu'il doit. Leur collatéral sera vendue jusqu'à ce que 562,5$ soient remboursés._
+_Exemple : en utilisant le même exemple, supposons qu'il y ait une pénalité de liquidation de 12,5%. Si le prêt de 400$ de l'emprunteur est liquidé, un montant supplémentaire de 50$ (12,5% de 400$) est ajouté au montant qu'il doit. Leur collatéral sera vendue jusqu'à ce que 450$ soient remboursés._
 
 ### **Comment fournir vos liquidités :**
 
