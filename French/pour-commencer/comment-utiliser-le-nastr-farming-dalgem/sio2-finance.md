@@ -1,131 +1,131 @@
 # 🍋 SiO2 Finance
 
-[SiO2 Finance](https://www.sio2.finance/) is the multi-VM lending hub on Astar for Polkadot. They aim to become the best lending product with excellent user experience, easy-to-use one-click features, and transparent governance.
+[SiO2 Finance](https://www.sio2.finance/) est le hub de prêt multi-VM sur Astar pour Polkadot. Ils visent à devenir la meilleure plateforme de prêt avec une excellente expérience utilisateur, des fonctionnalités faciles à utiliser en un clic et une gouvernance transparente.
 
-Algem’s nASTR Farming is now supporting SiO2 Finance. nASTR holders can lend their tokens as collateral to borrow other assets available on the lending platform such as ASTR, DOT, USDT, USDC, WBTC, WETH, etc.
+Algem nASTR Farming prend désormais en charge SiO2 Finance. Les détenteurs de nASTR peuvent prêter leurs jetons en garantie pour emprunter d'autres actifs disponibles sur la plateforme de prêt tels que ASTR, DOT, USDT, USDC, WBTC, WETH, etc.
 
-## How to supply your nASTR and borrow on SiO2 Finance
+## Comment déposer votre nASTR et emprunter sur SiO2 Finance
 
-Once you have staked ASTR tokens on [algem.io](http://algem.io/) and received nASTR tokens, select SiO2 Finance in the nASTR farming.
+Une fois que vous avez déposé des jetons ASTR sur [algem.io](http://algem.io/)  et reçu des jetons nASTR, sélectionnez SiO2 Finance dans nASTR Farming.
 
-**⚠️ Warning: Before borrowing other assets on SiO2, be sure to understand** [**the concept of Health Factor, Borrowing limit and liquidation using a lending plateform.**](https://docs.algem.io/get-started/how-to-use-algems-nastr-farming/sio2-finance#be-aware-of-risks) **⚠️**
+**⚠️ Attention : Avant d'emprunter d'autres actifs sur SiO2, assurez-vous de bien comprendre** [**les concepts de Facteur Santé, Limite d'emprunt et liquidation dans une plateforme de prêt.**](https://docs.algem.io/get-started/how-to-use-algems-nastr-farming/sio2-finance#be-aware-of-risks) **⚠️**
 
-From the launch of the adapter, only the ASTR token can be borrowed for the first few weeks, to avoid the risk of liquidation while Algem users familiarize themselves with the concept of the lending platform.
+Lors du lancement de l'adaptateur, seul le token ASTR pourra être emprunté les premières semaines, pour éviter le risque de liquidation le temps que les utilisateurs d'Algem se familiarisent avec le concept de la plateforme de prêt.
 
-### **nASTR Market Details:**
+### **Détails du marché nASTR:**
 
-**Loan to Value : 40%** - You can borrow up to 40% of your nASTR Collateral Value;
+**Ratio prêt-valeur (LTV) : 40%** - Vous pouvez emprunter jusqu'à 40% de la valeur de votre garantie nASTR;
 
-**Liquidation Threshold : 48%** -  If the borrowed value rises over 48% of the collateral, the position is collateral deficient.
+**Liquidation Threshold : 48%** -  Si la valeur empruntée dépasse 48 % de la garantie, la position est déficiente en termes de garantie.
 
-_The liquidation threshold is typically higher than the LTV ratio. For example, if the liquidation threshold for an asset is 48%, and a borrower has borrowed to the maximum LTV of 40%, if the value of their collateral falls such that their loan now represents 48% or more of the value of their collateral, their collateral will be liquidated._
+_Le seuil de liquidation est généralement supérieur au ratio prêt-valeur (LTV). Par exemple, si le seuil de liquidation d'un actif est de 48 % et qu'un emprunteur a emprunté jusqu'au LTV maximum de 40%, si la valeur de sa garantie chute de telle sorte que son prêt représente désormais 48% ou plus de la valeur de sa garantie, leur collateral sera liquidée._
 
-_Example: Suppose a user deposits 10000 ASTR worth $1000 as collateral. With an LTV ratio of 40%, they can borrow up to $400 worth of another asset. If the price of ASTR drops such that the value of their collateral falls to $833.33, their loan now represents 48% of the value of their collateral ($400/$833.33 = 48%). At this point, the platform will initiate liquidation of the borrower's collateral to repay the loan._
+_Exemple : supposons qu'un utilisateur dépose 10 000 ASTR d'une valeur de $1000 en garantie. Avec un ratio LTV de 40%, ils peuvent emprunter jusqu'à $400 d'un autre actif. Si le prix de l'ASTR baisse de telle sorte que la valeur de leur garantie tombe à 833,33 $, leur prêt représente désormais 48% de la valeur de leur garantie (400$ / 833,33$ = 48%). À ce stade, la plateforme initiera la liquidation du collatéral de l'emprunteur pour rembourser le prêt._
 
-**Liquidation Penalty : 12.50%**
+**Pénalité de liquidation : 12,50%**
 
-_The liquidation penalty is an additional charge that is applied when a borrower's collateral is liquidated. This serves as a deterrent to borrowing more than can be safely repaid, and provides additional security to lenders._
+_La pénalité de liquidation est une charge supplémentaire qui est appliquée lorsque la garantie d'un emprunteur est liquidée. Cela a pour effet de dissuader d'emprunter plus que ce qui peut être remboursé en toute sécurité et offre une sécurité supplémentaire aux prêteurs._
 
-_The liquidation penalty is added to the amount the borrower owes at the time of liquidation. The borrower's collateral is sold off until the loan plus the liquidation penalty is repaid._
+_La pénalité de liquidation s'ajoute au montant que l'emprunteur doit au moment de la liquidation. La garantie de l'emprunteur est vendue jusqu'au remboursement du prêt plus la pénalité de liquidation._
 
-_Example: Using the same example, suppose there's a 12.5% liquidation penalty. If the borrower's loan of $500 is being liquidated, an additional $62.5 (12.5% of $500) is added to the amount they owe. Their collateral will be sold off until $562.5 is repaid._
+_Exemple : en utilisant le même exemple, supposons qu'il y ait une pénalité de liquidation de 12,5%. Si le prêt de 500$ de l'emprunteur est liquidé, un montant supplémentaire de 62,5$ (12,5% de 500$) est ajouté au montant qu'il doit. Leur collatéral sera vendue jusqu'à ce que 562,5$ soient remboursés._
 
-### **How to Supply your liquidity:**
+### **Comment fournir vos liquidités :**
 
-* Select the Supply option;
-* Enter the amount of nASTR you want to supply;
-* Confirm the action by clicking on “Deposit” and signing the transaction in your wallet.
+* Sélectionnez l'option Supply / Fournir;
+* Entrez la quantité de nASTR que vous souhaitez fournir;
+* Confirmez l'action en cliquant sur "Deposit / Déposer" et signez la transaction dans votre portefeuille.
 
 <figure><img src="../../.gitbook/assets/01_Supply.png" alt=""><figcaption></figcaption></figure>
 
-**Option:** If you have already provided liquidity on SIO2 and received I-tokens, you can still deposit your I-tokens tokens on Algem Farming.
+**Option:** Si vous avez déjà fourni de la liquidité sur SIO2 et reçu des I-tokens, vous pouvez toujours déposer vos jetons I-tokens sur Algem Farming.
 
-### **How to Borrow assets:**
+### **Comment emprunter des actifs :**
 
-* Click the Borrow option;
-* Choose the token you want to borrow from the available list;
-* Enter the amount;
-* Check your borrowing limit and health factor;
-* Confirm the action by clicking on “Borrow” and signing the transaction in your wallet.
+* Cliquez sur l'option Borrow / Emprunter;
+* Choisissez le jeton que vous souhaitez emprunter dans la liste disponible;
+* Entrez le montant;
+* Vérifiez votre limite d'emprunt et votre facteur santé;
+* Confirmez l'action en cliquant sur "Borrow / Emprunter" et signez la transaction dans votre portefeuille.
 
 <figure><img src="../../.gitbook/assets/02_Borrow.png" alt=""><figcaption></figcaption></figure>
 
-### **How to Repay your debts:**
+### **Comment rembourser vos dettes :**
 
-* Select the Borrow option and switch to Repay;
-* Choose the token you want to repay from the borrowed list;
-* Enter the amount you need to repay;
+* Sélectionnez l'option Borrow / Emprunter et passez à Repay / Rembourser;
+* Choisissez le jeton que vous souhaitez rembourser dans la liste des emprunts;
+* Saisissez le montant que vous devez rembourser;
 
-_The amount to be repaid is higher than the amount borrowed, as it includes interest on the loan._
+_Le montant à rembourser est supérieur au montant emprunté, car il comprend les intérêts du prêt._
 
-* Check your borrowing limit and new health factor;
-* Confirm the action by clicking on “Repay” and signing the transaction in your wallet.
+* Vérifiez votre limite d'emprunt et votre nouveau facteur de santé;
+* Confirmez l'action en cliquant sur "Repay / Repayer" et signez la transaction dans votre portefeuille.
 
 <figure><img src="../../.gitbook/assets/03_Repay.png" alt=""><figcaption></figcaption></figure>
 
-### **How to Withdraw your liquidity:**
+### **Comment retirer vos liquidités :**
 
-* Be sure to have claim all your farming rewards before withdrawing your liquidity;
-* Select the Supply option and switch to Withdraw;
-* Enter the amount of nASTR you want to withdraw;
-* Check to see if your borrowing limit and health factor allow you to withdraw your deposited tokens;
+* Assurez-vous d'avoir réclamé toutes vos récompenses de farming avant de retirer vos liquidités;
+* Sélectionnez l'option Supply / Fournir et passez à Withdraw / Retrait;
+* Entrez le montant de nASTR que vous souhaitez retirer;
+* Vérifiez si votre limite d'emprunt et votre facteur santé vous permettent de retirer vos tokens déposés;
 
-_If not, you must first pay off some or all of your debts before you can withdraw your liquidity._
+_Si ce n'est pas le cas, vous devez d'abord rembourser une partie ou la totalité de vos dettes avant de pouvoir retirer vos liquidités._
 
-* Confirm the action by clicking on “Withdraw” and signing the transaction in your wallet.
+* Confirmez l'action en cliquant sur "Withdraw / Retirer" et signez la transaction dans votre portefeuille.
 
 <figure><img src="../../.gitbook/assets/04_Withdraw.png" alt=""><figcaption></figcaption></figure>
 
-### **How to increase your Health Factor:**
+### **Comment augmenter votre facteur de santé :**
 
-If your health factor is close to 1, you risk being liquidated, so it would be wise to increase it.
+Si votre facteur de santé est proche de 1, vous risquez d'être liquidé, il serait donc judicieux de l'augmenter.
 
-To increase your health factor, you can
+Pour augmenter votre facteur de santé, vous pouvez:
 
-* Repay your borrowing position;
-* Supply more collateral (nASTR);
+* Rembourser votre position emprunteur;
+* Fournir plus de garanties (nASTR);
 
-### **Claim your rewards from the nASTR Farming**
+### **Réclamez vos récompenses de farming nASTR**
 
-* Select the SiO2 Fiance dApp in the farming section;
-* Click on the **“Claim rewards”** button and sign the transaction in your wallet;
-* Your rewards will be distributed directly into your wallet
+* Sélectionnez la dApp SiO2 Finance dans la section farming;
+* Cliquez sur le bouton **"Claim rewards / Réclamer des récompenses"** et signez la transaction dans votre portefeuille;
+* Vos récompenses seront distribuées directement dans votre portefeuille.
 
 <figure><img src="../../.gitbook/assets/05_Claim.png" alt=""><figcaption></figcaption></figure>
 
-## A Defi strategy using Algem and Si02 Finance :
+## Une stratégie Defi en utilisant Algem et Si02 Finance :
 
-This is an example of a Defi strategy using SiO2 on Algem to maximize liquid dApp staking and earn more staking rewards with a set amount of ASTR tokens :
+Ceci est un exemple de stratégie Defi utilisant SiO2 sur Algem pour maximiser le Liquid dApp staking et gagner plus de récompenses de staking avec un nombre défini de tokens ASTR :
 
-* Stake 1000 ASTR on Algem, receive 1000 nASTR;
-* Lend 1000 nASTR on Si02 on Algem’s Farming;
-* Borrow up to 500 ASTR;
-* Stake again 500 ASTR on Algem and receive 500 nASTR;
-* Collect your staking rewards;
+* Déposez 1000 ASTR sur Algem, recevez 1000 nASTR;
+* Prêtez 1000 nASTR sur Si02 sur Algem’s Farming;
+* Empruntez jusqu'à 400 ASTR;
+* Déposez de nouveau 400 ASTR sur Algem et recevez 400 nASTR ;
+* Récupérez vos récompenses de staking;
 
-From 1000 ASTR, you are now receive staking rewards of 1500 nASTR (1000 ASTR deposited + 500 ASTR borrowed).
+À partir de 1000 ASTR, vous recevez désormais des récompenses de staking de 1400 nASTR (1000 ASTR déposés + 400 ASTR empruntés).
 
 <figure><img src="../../.gitbook/assets/Defi Strategy _ nASTR Lending.png" alt=""><figcaption></figcaption></figure>
 
-## Be aware of risks!
+## Soyez conscient des risques !
 
-Before using a Lending protocol like SiO2 Finance, be sure you are aware of the risks:
+Avant d'utiliser un protocole de prêt comme SiO2 Finance, assurez-vous d'être conscient des risques :
 
-*   **Liquidation:** Similar to all forms of Defi lending, there exists a risk of borrower default in Defi lending. When a user engages in borrowing within a lending platform, their position becomes associated with a "health factor." This health factor (HF) serves as an indicator of the security level of a deposited position compared to the borrowed position. A higher HF signifies a more secure state for the assets deposited, reducing the likelihood of liquidation.
-
-
-
-    In instances where the HF drops below 1, the assets held in deposit may be subjected to liquidation. Liquidation involves a process where a portion of the borrower's debt, up to a specified percentage (X %), is settled. This value, along with the applicable liquidation fee, is deducted from the user's available collateral. Subsequently, the liquidated debt amount is repaid. To prevent liquidation, it is crucial to maintain an HF exceeding 1.
+*   **Liquidation:** Comme tous types de prêts, les prêts Defi comportent le risque de défaillance de l'emprunteur. Lorsqu'un utilisateur emprunte sur une plateforme de prêt, un « facteur de santé » est associé à sa position. Le facteur de santé (HF) est un indicateur de la sécurité d'une position déposée par rapport à une position empruntée.
 
 
 
-    To consolidate the Health factor, users have the option of increasing their collateral or partially repaying the loan amount
+    Plus le HF est élevé, plus les actifs déposés sont à l'abri de la liquidation. Si le HF tombe en dessous de 1, les avoirs déposés peuvent être liquidés. Une liquidation est un processus dans lequel jusqu'à X % de la dette d'un emprunteur est remboursée, et cette valeur avec les frais de liquidation sont prélevés sur la garantie disponible de l'utilisateur. Après la liquidation, le montant liquidé de la dette est remboursé. Pour éviter la liquidation, assurez-vous que votre HF est supérieur à 1.
+
+
+
+    Un utilisateur peut augmenter son HF en déposant plus d'actifs en garantie ou en remboursant une partie du prêt.
 
     \
-    &#x20;See more in [SiO2 Finance’s documentation](https://sio2-finance.gitbook.io/en/systems/risk-parameters).
-* **Smart-contract risks.** SiO2 Finance is developed based on Aave V2 which is already [heavily audited](https://docs.aave.com/developers/v/2.0/security-and-audits). SiO2 has been also [audited by PeckShield](https://github.com/SiO2-Finance/contracts/tree/main/audits) but please keep in mind that security audits don’t completely eliminate risks. \
-  Do not supply assets that you cannot afford to lose to SiO2 Finance as a lender.
+    &#x20;Voir plus dans la [documentation de SiO2 Finance](https://sio2-finance.gitbook.io/en/systems/risk-parameters).
+* **Risques liés aux contrats intelligents.** SiO2 Finance est développé sur la base d'Aave V2 qui est déjà [fortement audité](https://docs.aave.com/developers/v/2.0/security-and-audits). SiO2 a également été [audité par PeckShield](https://github.com/SiO2-Finance/contracts/tree/main/audits), mais gardez à l'esprit que les audits de sécurité n'éliminent pas complètement les risques. Ne fournissez pas d'actifs que vous ne pouvez pas vous permettre de perdre sur SiO2 Finance en tant que prêteur. 
+  Ne fournissez pas d'actifs que vous ne pouvez pas vous permettre de perdre sur SiO2 Finance en tant que prêteur.
 
-## Smart-contracts:
+## Contracts intelligents:
 
-<table><thead><tr><th width="264">Type</th><th>Contract address</th></tr></thead><tbody><tr><td>Sio2Adapter</td><td><a href="https://blockscout.com/astar/address/0xAB06472A169e9eA3147A722464631D10553E384D">0xAB06472A169e9eA3147A722464631D10553E384D</a></td></tr><tr><td>Sio2AdapterAssetManager</td><td><a href="https://blockscout.com/astar/address/0x57c9f22168f315D33E1270b617F32F7940B89D67">0x57c9f22168f315D33E1270b617F32F7940B89D67</a></td></tr><tr><td>Sio2AdapterData</td><td><a href="https://blockscout.com/astar/address/0x01Daa46901103aED46F86d8be5376c3e12E8bd8b">0x01Daa46901103aED46F86d8be5376c3e12E8bd8b</a></td></tr></tbody></table>
+<table><thead><tr><th width="264">Type</th><th>Addresse du contrat</th></tr></thead><tbody><tr><td>Sio2Adapter</td><td><a href="https://blockscout.com/astar/address/0xAB06472A169e9eA3147A722464631D10553E384D">0xAB06472A169e9eA3147A722464631D10553E384D</a></td></tr><tr><td>Sio2AdapterAssetManager</td><td><a href="https://blockscout.com/astar/address/0x57c9f22168f315D33E1270b617F32F7940B89D67">0x57c9f22168f315D33E1270b617F32F7940B89D67</a></td></tr><tr><td>Sio2AdapterData</td><td><a href="https://blockscout.com/astar/address/0x01Daa46901103aED46F86d8be5376c3e12E8bd8b">0x01Daa46901103aED46F86d8be5376c3e12E8bd8b</a></td></tr></tbody></table>
