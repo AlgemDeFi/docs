@@ -28,7 +28,7 @@ _The liquidation penalty is an additional charge that is applied when a borrower
 
 _The liquidation penalty is added to the amount the borrower owes at the time of liquidation. The borrower's collateral is sold off until the loan plus the liquidation penalty is repaid._
 
-_Example: Using the same example, suppose there's a 12.5% liquidation penalty. If the borrower's loan of $500 is being liquidated, an additional $62.5 (12.5% of $500) is added to the amount they owe. Their collateral will be sold off until $562.5 is repaid._
+_Example: Using the same example, suppose there's a 12.5% liquidation penalty. If the borrower's loan of $400 is being liquidated, an additional $50(12.5% of $400) is added to the amount they owe. Their collateral will be sold off until $450 is repaid._
 
 ### **How to Supply your liquidity:**
 
