@@ -18,6 +18,10 @@ nASTR Farming - который мы ранее называли nASTR Liquidity 
 [arthswap.md](arthswap.md)
 {% endcontent-ref %}
 
+{% content-ref url="sio2-finance.md" %}
+[sio2-finance.md](sio2-finance.md)
+{% endcontent-ref %}
+
 Для всех пользователей, которые уже занимаются фермерством с помощью токенов nASTR на Sirius или Kagla Finance, вы должны сделать ставку на токены Gauge в Algem's nASTR Farming, чтобы продолжать получать вознаграждение за ставку.
 
 {% embed url="https://www.youtube.com/watch?v=YNBXuioBtsA&t=113s" %}

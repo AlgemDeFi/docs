@@ -41,6 +41,7 @@
   * [👨🌾 Sirius Finance](kak-nachat/kak-ispolzovat-algems-nastr-farming/sirius-finance.md)
   * [🌽 Kagla Finance](kak-nachat/kak-ispolzovat-algems-nastr-farming/kagla-finance.md)
   * [🥕 Arthswap](kak-nachat/kak-ispolzovat-algems-nastr-farming/arthswap.md)
+  * [🍋 SiO2 Finance](kak-nachat/kak-ispolzovat-algems-nastr-farming/sio2-finance.md)
 * [🐠 Как перевести токены nASTR с помощью Algem](kak-nachat/kak-perevesti-tokeny-nastr-s-pomoshyu-algem.md)
 
 ## 🔧 Развитие
