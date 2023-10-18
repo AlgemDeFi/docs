@@ -41,8 +41,8 @@
   * [👨🌾 Sirius Finance](pour-commencer/comment-utiliser-le-nastr-farming-dalgem/sirius-finance.md)
   * [🌽 Kagla Finance](pour-commencer/comment-utiliser-le-nastr-farming-dalgem/kagla-finance.md)
   * [🥕 Arthswap](pour-commencer/comment-utiliser-le-nastr-farming-dalgem/arthswap.md)
+  * [🍋 SiO2 Finance](pour-commencer/comment-utiliser-le-nastr-farming-dalgem/sio2-finance.md)
 * [🐠 Comment transférer des jetons nASTR avec Algem](pour-commencer/comment-transferer-des-jetons-nastr-avec-algem.md)
-* [🐚 Insurance for Algem users](pour-commencer/insurance-for-algem-users.md)
 
 ## 🔧 Développement
 

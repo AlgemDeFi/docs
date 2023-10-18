@@ -18,6 +18,10 @@ Une fois que vous avez déposé vos jetons ASTR sur Algem et reçu vos nASTR, vo
 [arthswap.md](arthswap.md)
 {% endcontent-ref %}
 
+{% content-ref url="sio2-finance.md" %}
+[sio2-finance.md](sio2-finance.md)
+{% endcontent-ref %}
+
 Pour tous les utilisateurs qui farment déjà avec des jetons nASTR sur Sirius ou Kagla Finance, vous devez déposer vos jetons Gauge dans nASTR Farming d'Algem pour continuer à gagner des récompenses de staking.
 
 {% embed url="https://www.youtube.com/watch?v=YNBXuioBtsA&t=113s" %}
