@@ -6,7 +6,7 @@ Algem nASTR Farming prend désormais en charge SiO2 Finance. Les détenteurs de 
 
 ## Comment déposer votre nASTR et emprunter sur SiO2 Finance
 
-Une fois que vous avez déposé des jetons ASTR sur [algem.io](http://algem.io/)  et reçu des jetons nASTR, sélectionnez SiO2 Finance dans nASTR Farming.
+Une fois que vous avez déposé des jetons ASTR sur [algem.io](http://algem.io/) et reçu des jetons nASTR, sélectionnez SiO2 Finance dans nASTR Farming.
 
 **⚠️ Attention : Avant d'emprunter d'autres actifs sur SiO2, assurez-vous de bien comprendre** [**les concepts de Facteur Santé, Limite d'emprunt et liquidation dans une plateforme de prêt.**](https://docs.algem.io/get-started/how-to-use-algems-nastr-farming/sio2-finance#be-aware-of-risks) **⚠️**
 
@@ -16,11 +16,11 @@ Lors du lancement de l'adaptateur, seul le token ASTR pourra être emprunté les
 
 **Ratio prêt-valeur (LTV) : 40%** - Vous pouvez emprunter jusqu'à 40% de la valeur de votre garantie nASTR;
 
-**Liquidation Threshold : 48%** -  Si la valeur empruntée dépasse 48 % de la garantie, la position est déficiente en termes de garantie.
+**Seuil de liquidation :** 48% - Si la valeur empruntée dépasse 48% de la garantie, le collatéral de la positon est insuffisant.
 
-_Le seuil de liquidation est généralement supérieur au ratio prêt-valeur (LTV). Par exemple, si le seuil de liquidation d'un actif est de 48 % et qu'un emprunteur a emprunté jusqu'au LTV maximum de 40%, si la valeur de sa garantie chute de telle sorte que son prêt représente désormais 48% ou plus de la valeur de sa garantie, leur collateral sera liquidée._
+_Le seuil de liquidation est généralement supérieur au ratio prêt-valeur (LTV). Par exemple, si le seuil de liquidation d'un actif est de 48 % et qu'un emprunteur a emprunté jusqu'au LTV maximum de 40%, si la valeur de sa garantie chute de telle sorte que son prêt représente désormais 48% ou plus de la valeur de sa garantie, leur collateral sera liquidée._
 
-_Exemple : supposons qu'un utilisateur dépose 10 000 ASTR d'une valeur de $1000 en garantie. Avec un ratio LTV de 40%, ils peuvent emprunter jusqu'à $400 d'un autre actif. Si le prix de l'ASTR baisse de telle sorte que la valeur de leur garantie tombe à 833,33 $, leur prêt représente désormais 48% de la valeur de leur garantie (400$ / 833,33$ = 48%). À ce stade, la plateforme initiera la liquidation du collatéral de l'emprunteur pour rembourser le prêt._
+_Exemple : supposons qu'un utilisateur dépose 10 000 ASTR d'une valeur de $1000 en garantie. Avec un ratio LTV de 40%, ils peuvent emprunter jusqu'à $400 d'un autre actif. Si le prix de l'ASTR baisse de telle sorte que la valeur de leur garantie tombe à 833,33 $, leur prêt représente désormais 48% de la valeur de leur garantie (400$ / 833,33$ = 48%). À ce stade, la plateforme initiera la liquidation du collatéral de l'emprunteur pour rembourser le prêt._
 
 **Pénalité de liquidation : 12,50%**
 
@@ -28,9 +28,9 @@ _La pénalité de liquidation est une charge supplémentaire qui est appliquée 
 
 _La pénalité de liquidation s'ajoute au montant que l'emprunteur doit au moment de la liquidation. La garantie de l'emprunteur est vendue jusqu'au remboursement du prêt plus la pénalité de liquidation._
 
-_Exemple : en utilisant le même exemple, supposons qu'il y ait une pénalité de liquidation de 12,5%. Si le prêt de 500$ de l'emprunteur est liquidé, un montant supplémentaire de 62,5$ (12,5% de 500$) est ajouté au montant qu'il doit. Leur collatéral sera vendue jusqu'à ce que 562,5$ soient remboursés._
+_Exemple : en utilisant le même exemple, supposons qu'il y ait une pénalité de liquidation de 12,5%. Si le prêt de 500$ de l'emprunteur est liquidé, un montant supplémentaire de 62,5$ (12,5% de 500$) est ajouté au montant qu'il doit. Leur collatéral sera vendue jusqu'à ce que 562,5$ soient remboursés._
 
-### **Comment fournir vos liquidités :**
+### **Comment fournir vos liquidités :**
 
 * Sélectionnez l'option Supply / Fournir;
 * Entrez la quantité de nASTR que vous souhaitez fournir;
@@ -40,7 +40,7 @@ _Exemple : en utilisant le même exemple, supposons qu'il y ait une pénalité 
 
 **Option:** Si vous avez déjà fourni de la liquidité sur SIO2 et reçu des I-tokens, vous pouvez toujours déposer vos jetons I-tokens sur Algem Farming.
 
-### **Comment emprunter des actifs :**
+### **Comment emprunter des actifs :**
 
 * Cliquez sur l'option Borrow / Emprunter;
 * Choisissez le jeton que vous souhaitez emprunter dans la liste disponible;
@@ -63,7 +63,7 @@ _Le montant à rembourser est supérieur au montant emprunté, car il comprend l
 
 <figure><img src="../../.gitbook/assets/03_Repay.png" alt=""><figcaption></figcaption></figure>
 
-### **Comment retirer vos liquidités :**
+### **Comment retirer vos liquidités :**
 
 * Assurez-vous d'avoir réclamé toutes vos récompenses de farming avant de retirer vos liquidités;
 * Sélectionnez l'option Supply / Fournir et passez à Withdraw / Retrait;
@@ -76,7 +76,7 @@ _Si ce n'est pas le cas, vous devez d'abord rembourser une partie ou la totalit�
 
 <figure><img src="../../.gitbook/assets/04_Withdraw.png" alt=""><figcaption></figcaption></figure>
 
-### **Comment augmenter votre facteur de santé :**
+### **Comment augmenter votre facteur de santé :**
 
 Si votre facteur de santé est proche de 1, vous risquez d'être liquidé, il serait donc judicieux de l'augmenter.
 
@@ -100,7 +100,7 @@ Ceci est un exemple de stratégie Defi utilisant SiO2 sur Algem pour maximiser l
 * Déposez 1000 ASTR sur Algem, recevez 1000 nASTR;
 * Prêtez 1000 nASTR sur Si02 sur Algem’s Farming;
 * Empruntez jusqu'à 400 ASTR;
-* Déposez de nouveau 400 ASTR sur Algem et recevez 400 nASTR ;
+* Déposez de nouveau 400 ASTR sur Algem et recevez 400 nASTR ;
 * Récupérez vos récompenses de staking;
 
 À partir de 1000 ASTR, vous recevez désormais des récompenses de staking de 1400 nASTR (1000 ASTR déposés + 400 ASTR empruntés).
@@ -109,22 +109,17 @@ Ceci est un exemple de stratégie Defi utilisant SiO2 sur Algem pour maximiser l
 
 ## Soyez conscient des risques !
 
-Avant d'utiliser un protocole de prêt comme SiO2 Finance, assurez-vous d'être conscient des risques :
+Avant d'utiliser un protocole de prêt comme SiO2 Finance, assurez-vous d'être conscient des risques :
 
 *   **Liquidation:** Comme tous types de prêts, les prêts Defi comportent le risque de défaillance de l'emprunteur. Lorsqu'un utilisateur emprunte sur une plateforme de prêt, un « facteur de santé » est associé à sa position. Le facteur de santé (HF) est un indicateur de la sécurité d'une position déposée par rapport à une position empruntée.
 
-
-
     Plus le HF est élevé, plus les actifs déposés sont à l'abri de la liquidation. Si le HF tombe en dessous de 1, les avoirs déposés peuvent être liquidés. Une liquidation est un processus dans lequel jusqu'à X % de la dette d'un emprunteur est remboursée, et cette valeur avec les frais de liquidation sont prélevés sur la garantie disponible de l'utilisateur. Après la liquidation, le montant liquidé de la dette est remboursé. Pour éviter la liquidation, assurez-vous que votre HF est supérieur à 1.
-
-
 
     Un utilisateur peut augmenter son HF en déposant plus d'actifs en garantie ou en remboursant une partie du prêt.
 
     \
-    &#x20;Voir plus dans la [documentation de SiO2 Finance](https://sio2-finance.gitbook.io/en/systems/risk-parameters).
-* **Risques liés aux contrats intelligents.** SiO2 Finance est développé sur la base d'Aave V2 qui est déjà [fortement audité](https://docs.aave.com/developers/v/2.0/security-and-audits). SiO2 a également été [audité par PeckShield](https://github.com/SiO2-Finance/contracts/tree/main/audits), mais gardez à l'esprit que les audits de sécurité n'éliminent pas complètement les risques. Ne fournissez pas d'actifs que vous ne pouvez pas vous permettre de perdre sur SiO2 Finance en tant que prêteur. 
-  Ne fournissez pas d'actifs que vous ne pouvez pas vous permettre de perdre sur SiO2 Finance en tant que prêteur.
+    Voir plus dans la [documentation de SiO2 Finance](https://sio2-finance.gitbook.io/en/systems/risk-parameters).
+* **Risques liés aux contrats intelligents.** SiO2 Finance est développé sur la base d'Aave V2 qui est déjà [fortement audité](https://docs.aave.com/developers/v/2.0/security-and-audits). SiO2 a également été [audité par PeckShield](https://github.com/SiO2-Finance/contracts/tree/main/audits), mais gardez à l'esprit que les audits de sécurité n'éliminent pas complètement les risques. Ne fournissez pas d'actifs que vous ne pouvez pas vous permettre de perdre sur SiO2 Finance en tant que prêteur. Ne fournissez pas d'actifs que vous ne pouvez pas vous permettre de perdre sur SiO2 Finance en tant que prêteur.
 
 ## Contracts intelligents:
 
