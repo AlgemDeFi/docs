@@ -18,6 +18,10 @@ Saat ini, tiga dApps yang didukung oleh Algem Adapter Contracts adalah Sirius Fi
 [arthswap.md](arthswap.md)
 {% endcontent-ref %}
 
+{% content-ref url="sio2-finance.md" %}
+[sio2-finance.md](sio2-finance.md)
+{% endcontent-ref %}
+
 Untuk semua pengguna yang sudah farming dengan token nASTR di Sirius atau Kagla Finance, Anda harus staking token Gauge Anda di nASTR farming Algem untuk terus mendapatkan hadiah staking.
 
 {% embed url="https://www.youtube.com/watch?v=YNBXuioBtsA&t=113s" %}

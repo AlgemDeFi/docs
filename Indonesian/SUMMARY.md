@@ -41,6 +41,7 @@
   * [👨🌾 Sirius Finance](memulai/cara-menggunakan-nastr-farming-algem/sirius-finance.md)
   * [🌽 Kagla Finance](memulai/cara-menggunakan-nastr-farming-algem/kagla-finance.md)
   * [🥕 Arthswap](memulai/cara-menggunakan-nastr-farming-algem/arthswap.md)
+  * [🍋 SiO2 Finance](memulai/cara-menggunakan-nastr-farming-algem/sio2-finance.md)
 * [🐠 Cara mentransfer token nASTR dengan Algem](memulai/cara-mentransfer-token-nastr-dengan-algem.md)
 
 ## 🔧 Perkembangan
