@@ -1,4 +1,4 @@
-# 🍋 SiO2 Finance
+# 🍋 SiO2ファイナンス
 
 [SiO2ファイナンス](https://www.sio2.finance/)はPolakadotのAstar上で展開しているマルチVM対応のレンディングハブです。ワンクリック機能や透明性の高いガバナンスなど優れたUXを提供し最高のレンディングプロトコルを目指しています。
 
@@ -8,7 +8,7 @@ Algemの$nASTRファーミングはSiO2ファイナンスをサポートして�
 
 [Algem.io](https://www.algem.io/)へ$ASTRをステーキングし$nASTRを受領後、$nASTRファーミングからSiO2ファイナンスを選択
 
-⚠️ 注意：SiO2でトークンを借りる前に[ヘルスファクター、借入限度、清算に関して理解しておいて下さい。](https://docs.algem.io/get-started/how-to-use-algems-nastr-farming/sio2-finance#be-aware-of-risks)⚠️
+⚠️ 注意：SiO2でトークンを借りる前に[ヘルスファクター、借入限度、清算に関して理解しておいて下さい。](https://docs.algem.io/v/japanzu/get-started/nastr-fminguno/sio2-finance#risukuni)⚠️
 
 Algemユーザーが精算リスクについて理解を深めることができるように、adapterローンチ直後の数週間は$ASTRのみ借入可能です。
 
