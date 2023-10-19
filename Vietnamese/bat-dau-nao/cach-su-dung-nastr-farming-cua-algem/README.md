@@ -18,6 +18,10 @@ Hiện tại, ba dApp được Hợp đồng bộ điều hợp Algem hỗ trợ
 [arthswap.md](arthswap.md)
 {% endcontent-ref %}
 
+{% content-ref url="sio2-finance.md" %}
+[sio2-finance.md](sio2-finance.md)
+{% endcontent-ref %}
+
 Đối với tất cả người dùng đang canh tác bằng mã thông báo nASTR trên Sirius hoặc Kagla Finance, bạn phải đặt cọc mã thông báo Gauge của mình trong nASTR Farming của Algem để tiếp tục kiếm được phần thưởng đặt cược.
 
 {% embed url="https://www.youtube.com/watch?v=YNBXuioBtsA&t=113s" %}

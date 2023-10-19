@@ -4,13 +4,13 @@
 
 ## 🤖 Algem Protocol
 
-* [💦  Liquid dApp Staking](algem-protocol/liquid-dapp-staking/README.md)
+* [💦 Liquid dApp Staking](algem-protocol/liquid-dapp-staking/README.md)
   * [ASTR Liquid Staking](algem-protocol/liquid-dapp-staking/astr-liquid-staking.md)
   * [Unstaking nASTR](algem-protocol/liquid-dapp-staking/unstaking-nastr.md)
   * [Liquid staking FAQ](algem-protocol/liquid-dapp-staking/liquid-staking-faq.md)
 * [🌊 Liquid Lending](algem-protocol/liquid-lending.md)
 * [📔 nASTR Farming](algem-protocol/nastr-farming.md)
-* [💧  nASTR](algem-protocol/dnts.md)
+* [💧 nASTR](algem-protocol/dnts.md)
 * [👥 Tham gia cộng đồng Algem](algem-protocol/tham-gia-cong-dong-algem/README.md)
   * [Các liên kết của hệ sinh thái](algem-protocol/tham-gia-cong-dong-algem/cac-lien-ket-cua-he-sinh-thai.md)
   * [Chương trình Algyors](algem-protocol/tham-gia-cong-dong-algem/chuong-trinh-algyors.md)
@@ -27,7 +27,7 @@
 * [💼 Wallets & Networks](bat-dau-nao/wallets-and-networks/README.md)
   * [🦊 Metamask](bat-dau-nao/wallets-and-networks/metamask.md)
   * [🔑 Ledger EVM](bat-dau-nao/wallets-and-networks/ledger-evm.md)
-  * [\* Polkadot{.js}](bat-dau-nao/wallets-and-networks/polkadot-.js.md)
+  * [\* \* Polkadot{.js}](bat-dau-nao/wallets-and-networks/polkadot-.js.md)
 * [🔀 Transfer assets to Astar Network EVM](bat-dau-nao/transfer-assets-to-astar-network-evm/README.md)
   * [🏦 From a CEX](bat-dau-nao/transfer-assets-to-astar-network-evm/from-a-cex.md)
   * [🌀 Using Astar Network Portal](bat-dau-nao/transfer-assets-to-astar-network-evm/using-astar-network-portal.md)
@@ -41,6 +41,7 @@
   * [👨🌾 Sirius Finance](bat-dau-nao/cach-su-dung-nastr-farming-cua-algem/sirius-finance.md)
   * [🌽 Kagla Finance](bat-dau-nao/cach-su-dung-nastr-farming-cua-algem/kagla-finance.md)
   * [🥕 Arthswap](bat-dau-nao/cach-su-dung-nastr-farming-cua-algem/arthswap.md)
+  * [🍋 SiO2 Finance](bat-dau-nao/cach-su-dung-nastr-farming-cua-algem/sio2-finance.md)
 * [🐠 Cách chuyển mã thông báo nASTR với Algem](bat-dau-nao/cach-chuyen-ma-thong-bao-nastr-voi-algem.md)
 * [🐚 Insurance for Algem users](bat-dau-nao/insurance-for-algem-users.md)
 
