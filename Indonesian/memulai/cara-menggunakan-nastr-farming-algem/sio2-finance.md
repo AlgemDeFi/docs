@@ -8,7 +8,7 @@ Pertanian nASTR Algem sekarang mendukung Keuangan SiO2. Pemegang nASTR dapat mem
 
 Setelah Anda staking token ASTR di [algem.io](https://www.algem.io/) dan menerima token nASTR, pilih Keuangan SiO2 di pertanian nASTR.
 
-⚠️ Peringatan: Sebelum meminjam aset lain di SiO2, pastikan untuk memahami [konsep Faktor Kesehatan, Batas Pinjaman dan likuidasi menggunakan platform peminjaman](https://docs.algem.io/get-started/how-to-use-algems-nastr-farming/sio2-finance#be-aware-of-risks) . ⚠️
+⚠️ Peringatan: Sebelum meminjam aset lain di SiO2, pastikan untuk memahami [konsep Faktor Kesehatan, Batas Pinjaman dan likuidasi menggunakan platform peminjaman](https://docs.algem.io/v/bahasa-indonesia/memulai/cara-menggunakan-nastr-farming-algem/sio2-finance#waspadai-risiko). ⚠️
 
 Sejak peluncuran adaptor, hanya token ASTR yang dapat dipinjam selama beberapa minggu pertama, untuk menghindari risiko likuidasi sementara pengguna Algem membiasakan diri dengan konsep platform peminjaman.
 
