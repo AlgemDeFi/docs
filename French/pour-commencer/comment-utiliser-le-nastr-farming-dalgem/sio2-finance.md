@@ -8,7 +8,7 @@ Algem nASTR Farming prend désormais en charge SiO2 Finance. Les détenteurs de 
 
 Une fois que vous avez déposé des jetons ASTR sur [algem.io](http://algem.io/) et reçu des jetons nASTR, sélectionnez SiO2 Finance dans nASTR Farming.
 
-**⚠️ Attention : Avant d'emprunter d'autres actifs sur SiO2, assurez-vous de bien comprendre** [**les concepts de Facteur Santé, Limite d'emprunt et liquidation dans une plateforme de prêt.**](https://docs.algem.io/get-started/how-to-use-algems-nastr-farming/sio2-finance#be-aware-of-risks) **⚠️**
+**⚠️ Attention : Avant d'emprunter d'autres actifs sur SiO2,** [**assurez-vous de bien comprendre** **les concepts de Facteur Santé, Limite d'emprunt et liquidation dans une plateforme de prêt**](https://docs.algem.io/v/algem-documentation-fr-1/pour-commencer/comment-utiliser-le-nastr-farming-dalgem/sio2-finance#soyez-conscient-des-risques)**.** **⚠️**
 
 Lors du lancement de l'adaptateur, seul le token ASTR pourra être emprunté les premières semaines, pour éviter le risque de liquidation le temps que les utilisateurs d'Algem se familiarisent avec le concept de la plateforme de prêt.
 
