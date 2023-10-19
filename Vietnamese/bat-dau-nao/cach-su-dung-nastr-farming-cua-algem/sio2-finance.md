@@ -8,7 +8,7 @@ Algem's nASTR Farming hiện đang hỗ trợ SiO2 Finance. Chủ sở hữu nAS
 
 Khi bạn đã đặt cược mã thông báo ASTR trên [algem.io](https://www.algem.io/) và nhận được mã thông báo nASTR, hãy chọn Tài chính SiO2 trong trang trại nASTR.
 
-⚠️ Cảnh báo: Trước khi vay các tài sản khác trên SiO2, hãy nhớ hiểu khái niệm về [Yếu tố sức khỏe, Giới hạn vay và thanh lý bằng cách sử dụng biểu mẫu cho vay](https://docs.algem.io/get-started/how-to-use-algems-nastr-farming/sio2-finance#be-aware-of-risks). ⚠️
+⚠️ Cảnh báo: Trước khi vay các tài sản khác trên SiO2, hãy nhớ hiểu khái niệm về [Yếu tố sức khỏe, Giới hạn vay và thanh lý bằng cách sử dụng biểu mẫu cho vay](https://docs.algem.io/v/tieng-viet/bat-dau-nao/cach-su-dung-nastr-farming-cua-algem/sio2-finance#hay-nhan-biet-nhung-rui-ro). ⚠️
 
 Kể từ khi ra mắt bộ điều hợp, chỉ có thể mượn mã thông báo ASTR trong vài tuần đầu tiên, để tránh rủi ro thanh lý trong khi người dùng Algem làm quen với khái niệm về nền tảng cho vay.
 
