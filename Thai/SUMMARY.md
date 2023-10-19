@@ -27,7 +27,7 @@
 * [💼 Wallets & Networks](undefined/wallets-and-networks/README.md)
   * [🦊 Metamask](undefined/wallets-and-networks/metamask.md)
   * [🔑 Ledger EVM](undefined/wallets-and-networks/ledger-evm.md)
-  * [\* \* Polkadot{.js}](undefined/wallets-and-networks/polkadot-.js.md)
+  * [\* \* \* Polkadot{.js}](undefined/wallets-and-networks/polkadot-.js.md)
 * [🔀 Transfer assets to Astar Network EVM](undefined/transfer-assets-to-astar-network-evm/README.md)
   * [🏦 From a CEX](undefined/transfer-assets-to-astar-network-evm/from-a-cex.md)
   * [🌀 Using Astar Network Portal](undefined/transfer-assets-to-astar-network-evm/using-astar-network-portal.md)
@@ -41,6 +41,7 @@
   * [👨🌾 Sirius Finance](undefined/how-to-use-algems-nastr-farming/sirius-finance.md)
   * [🌽 Kagla Finance](undefined/how-to-use-algems-nastr-farming/kagla-finance.md)
   * [🥕 Arthswap](undefined/how-to-use-algems-nastr-farming/arthswap.md)
+  * [🍋 SiO2 Finance](undefined/how-to-use-algems-nastr-farming/sio2-finance.md)
 * [🐠 จะโอนโทเค็น nASTR ด้วย Algem ได้อย่างไร?](undefined/how-to-transfer-nastr-tokens-with-algem.md)
 * [🐚 Insurance for Algem users](undefined/insurance-for-algem-users.md)
 
