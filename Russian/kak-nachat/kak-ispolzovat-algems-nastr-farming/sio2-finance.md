@@ -107,7 +107,7 @@ _Если нет, вы должны сначала погасить некото
 
 <figure><img src="../../.gitbook/assets/Defi Strategy _ nASTR Lending.png" alt=""><figcaption></figcaption></figure>
 
-Помните о рисках!
+## Помните о рисках!
 
 Прежде чем воспользоваться таким протоколом кредитования, как SiO2 Finance, убедитесь, что вы знаете о рисках:
 
