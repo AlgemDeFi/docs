@@ -14,6 +14,9 @@ Using nASTR Farming and directly on Algem, nASTR holders can:&#x20;
 * Lend nASTR tokens to lending and collateral platforms.&#x20;
 * Claim and receive farming rewards
 
+⚠️ **Warning:** It is extremely important to use the adapters developed by Algem when using nASTR tokens with other Defi protocols in order to continue receiving staking rewards. \
+If you use nASTR tokens directly on partner applications such as Arthswap, Sirius Finance, Kagla Finance or Sio2 Finance, you will no longer receive staking rewards.
+
 ### What is the benefit of the nASTR Farming
 
 * **Flashloan protection via the buffered implementation:** Several improbable scenarios exist when staking rewards can be boosted retroactively through the LP tokens. For example, a user can use a flash loan to claim the rewards and receive significantly more that way, returning the LP tokens at the end of the transaction. This risk will rise in the future when more Defi dApps propose flashloan services.&#x20;

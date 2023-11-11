@@ -22,6 +22,9 @@ At the moment, the four dApps supported by the Algem Adapter Contracts are Siriu
 [sio2-finance.md](sio2-finance.md)
 {% endcontent-ref %}
 
+⚠️ **Warning:** It is extremely important to use the adapters developed by Algem when using nASTR tokens with other Defi protocols in order to continue receiving staking rewards. \
+If you use nASTR tokens directly on partner applications such as Arthswap, Sirius Finance, Kagla Finance or Sio2 Finance, you will no longer receive staking rewards.
+
 **For all the users farming already with nASTR tokens on Sirius or Kagla Finance, you must stake your Gauge tokens in Algem’s nASTR Farming to keep earning staking rewards.**
 
 {% embed url="https://www.youtube.com/watch?v=YNBXuioBtsA&t=113s" %}
