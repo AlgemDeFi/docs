@@ -8,19 +8,19 @@ Algem’s nASTR Farming is now supporting SiO2 Finance. nASTR holders can lend t
 
 Once you have staked ASTR tokens on [algem.io](http://algem.io/) and received nASTR tokens, select SiO2 Finance in the nASTR farming.
 
-**⚠️ Warning: Before borrowing other assets on SiO2, be sure to understand** [**the concept of Health Factor, Borrowing limit and liquidation using a lending plateform.**](https://docs.algem.io/get-started/how-to-use-algems-nastr-farming/sio2-finance#be-aware-of-risks) **⚠️**
+**⚠️ Warning: Before borrowing other assets on SiO2, be sure to understand** [**the concept of Health Factor, Borrowing limit and liquidation using a lending platform.**](https://docs.algem.io/get-started/how-to-use-algems-nastr-farming/sio2-finance#be-aware-of-risks) **⚠️**
 
 From the launch of the adapter, only the ASTR token can be borrowed for the first few weeks, to avoid the risk of liquidation while Algem users familiarize themselves with the concept of the lending platform.
 
 ### **nASTR Market Details:**
 
-**Loan to Value : 40%** - You can borrow up to 40% of your nASTR Collateral Value;
+**Loan to Value : 30%** - You can borrow up to 30% of your nASTR Collateral Value;
 
 **Liquidation Threshold : 48%** -  If the borrowed value rises over 48% of the collateral, the position is collateral deficient.
 
-_The liquidation threshold is typically higher than the LTV ratio. For example, if the liquidation threshold for an asset is 48%, and a borrower has borrowed to the maximum LTV of 40%, if the value of their collateral falls such that their loan now represents 48% or more of the value of their collateral, their collateral will be liquidated._
+_The liquidation threshold is typically higher than the LTV ratio. For example, if the liquidation threshold for an asset is 48%, and a borrower has borrowed to the maximum LTV of 30%, if the value of their collateral falls such that their loan now represents 48% or more of the value of their collateral, their collateral will be liquidated._
 
-_Example: Suppose a user deposits 10000 ASTR worth $1000 as collateral. With an LTV ratio of 40%, they can borrow up to $400 worth of another asset. If the price of ASTR drops such that the value of their collateral falls to $833.33, their loan now represents 48% of the value of their collateral ($400/$833.33 = 48%). At this point, the platform will initiate liquidation of the borrower's collateral to repay the loan._
+_Example: Suppose a user deposits 10000 ASTR worth $1000 as collateral. With an LTV ratio of 30%, they can borrow up to $300 worth of another asset. If the price of ASTR drops such that the value of their collateral falls to $833.33, their loan now represents 48% of the value of their collateral ($300/$625 = 48%). At this point, the platform will initiate liquidation of the borrower's collateral to repay the loan._
 
 **Liquidation Penalty : 12.50%**
 
@@ -28,7 +28,7 @@ _The liquidation penalty is an additional charge that is applied when a borrower
 
 _The liquidation penalty is added to the amount the borrower owes at the time of liquidation. The borrower's collateral is sold off until the loan plus the liquidation penalty is repaid._
 
-_Example: Using the same example, suppose there's a 12.5% liquidation penalty. If the borrower's loan of $400 is being liquidated, an additional $50(12.5% of $400) is added to the amount they owe. Their collateral will be sold off until $450 is repaid._
+_Example: Using the same example, suppose there's a 12.5% liquidation penalty. If the borrower's loan of $300 is being liquidated, an additional $37.5(12.5% of $300) is added to the amount they owe. Their collateral will be sold off until $337.5 is repaid._
 
 ### **How to Supply your liquidity:**
 
