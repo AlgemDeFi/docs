@@ -50,4 +50,3 @@
 * [📃 Contracts information](development-and-security/contracts.md)
 * [🏗 Internal practices](development-and-security/internal-practices.md)
 * [🕵 Audit](development-and-security/audit.md)
-* [🧵 nASTR Price Feeds by DIA](development-and-security/nastr-price-feeds-by-dia.md)
