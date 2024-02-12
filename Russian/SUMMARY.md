@@ -48,4 +48,3 @@
 
 * [🕵 Аудит](razvitie/audit.md)
 * [📃 Контракты](razvitie/kontrakty.md)
-* [🧵 nASTR Price Feeds by DIA](razvitie/nastr-price-feeds-by-dia.md)
