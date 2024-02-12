@@ -48,4 +48,3 @@
 
 * [🕵 Audit](developpement/audit.md)
 * [📃 Contrats](developpement/contrats.md)
-* [🧵 nASTR Price Feeds by DIA](developpement/nastr-price-feeds-by-dia.md)
