@@ -48,4 +48,3 @@
 
 * [🕵 監査](development/jian-cha.md)
 * [📃 コントラクト](development/contracts.md)
-* [🧵 nDIAによる$nASTRの価格参照](development/nastr-price-feeds-by-dia.md)
