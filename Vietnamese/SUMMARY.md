@@ -49,4 +49,3 @@
 
 * [🕵 Audit](su-phat-trien/audit.md)
 * [📃 Contracts](su-phat-trien/contracts.md)
-* [🧵 nASTR Price Feeds by DIA](su-phat-trien/nastr-price-feeds-by-dia.md)
