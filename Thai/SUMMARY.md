@@ -49,4 +49,3 @@
 
 * [🕵 การตรวจสอบ](undefined-1/audit.md)
 * [📃 Contracts](undefined-1/contracts.md)
-* [🧵 nASTR Price Feeds by DIA](undefined-1/nastr-price-feeds-by-dia.md)
