@@ -11,14 +11,15 @@ ALGM is the governance token of the Algem Protocol. Users can have rights and vo
 
 ### **ALGM's allocation**
 
-| Title            | Percentage | Detail                                                              |
-| ---------------- | ---------- | ------------------------------------------------------------------- |
-| Incentives       | 50%        | Over 6 years                                                        |
-| Team             | 18%        | 6-month cliff after launch, and 3-year vesting with monthly release |
-| Early Investors  | 15%        | 6-month cliff after launch, and 2-year vesting with monthly release |
-| Community growth | 7%         | Marketing, events, additional incentives;                           |
-| Reserve          | 8%         | Unexpected expenditures, etc.                                       |
-| Airdrop          | 2%         | Testnet participants, early members, dApp staking.                  |
+| Title                   | Percentage | Detail                                                              |
+| ----------------------- | ---------- | ------------------------------------------------------------------- |
+| Incentives              | 50%        | Over 6 years                                                        |
+| Team                    | 18%        | 6-month cliff after launch, and 3-year vesting with monthly release |
+| Early Investors         | 15%        | 6-month cliff after launch, and 2-year vesting with monthly release |
+| Community growth        | 7%         | Marketing, events, additional incentives;                           |
+| Reserve                 | 8%         | Unexpected expenditures, etc.                                       |
+| Airdrop                 | 2%         | Testnet participants, early members, dApp staking.                  |
+| Algem Nautilus Pass NFT | 0.5%       | 6 month cliff after the launch and 1 year vesting.                  |
 
 ### **ALGM's distribution schedule**
 
