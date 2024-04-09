@@ -17,17 +17,17 @@
 * [🪙 $ALGM](algem-protocol/usdalgm/README.md)
   * [トークノミクス](algem-protocol/usdalgm/tkunomikusu.md)
   * [$ALGMの用途](algem-protocol/usdalgm/algmno.md)
-* [🖼 NFTコレクション](algem-protocol/nftkorekushon.md)
-* [⚖ プロジェクト収益](algem-protocol/purojekuto.md)
-* [🗺 ロードマップ](algem-protocol/rdomappu.md)
-* [⚠ リスクマネジメント](algem-protocol/risukumanejimento.md)
+* [🖼️ NFTコレクション](algem-protocol/nftkorekushon.md)
+* [⚖️ プロジェクト収益](algem-protocol/purojekuto.md)
+* [🗺️ ロードマップ](algem-protocol/rdomappu.md)
+* [⚠️ リスクマネジメント](algem-protocol/risukumanejimento.md)
 
 ## Get Started
 
 * [💼 ウォレット＆ネットワーク](get-started/worettonettowku/README.md)
   * [🦊 メタマスク](get-started/worettonettowku/metamasuku.md)
   * [🔑 レジャーEVM](get-started/worettonettowku/rejevm.md)
-  * [\* Polkadot{.js}](get-started/worettonettowku/polkadot-.js.md)
+  * [\*️ Polkadot{.js}](get-started/worettonettowku/polkadot-.js.md)
 * [🔀 アスターEVMへの送金方法](get-started/asutevmheno/README.md)
   * [🏦 CEXからの送金方法](get-started/asutevmheno/cexkarano.md)
   * [🌀 アスターポータルの利用方法](get-started/asutevmheno/asutptaruno.md)
@@ -35,10 +35,10 @@
   * [🔁 クロスチェーンスワップの利用方法](get-started/asutevmheno/kurosuchnsuwappuno.md)
   * [💱 DEXの利用方法](get-started/asutevmheno/dexno.md)
 * [🐬 リキッドdAppステーキングの利用方法](get-started/rikiddodappsutkinguno/README.md)
-  * [🖥 デスクトップでの利用方法](get-started/rikiddodappsutkinguno/desukutoppudeno.md)
+  * [🖥️ デスクトップでの利用方法](get-started/rikiddodappsutkinguno/desukutoppudeno.md)
   * [📱 モバイルでの利用](get-started/rikiddodappsutkinguno/mobairudeno.md)
 * [🦈 $nASTR ファーミングの利用方法](get-started/nastr-fminguno/README.md)
-  * [👨🌾 シリウスファイナンス](get-started/nastr-fminguno/sirius-finance.md)
+  * [👨‍🌾 シリウスファイナンス](get-started/nastr-fminguno/sirius-finance.md)
   * [🌽 カグラファイナンス](get-started/nastr-fminguno/kagla-finance.md)
   * [🥕 アーススワップ](get-started/nastr-fminguno/arthswap.md)
   * [🍋 SiO2ファイナンス](get-started/nastr-fminguno/sio2fainansu.md)
@@ -46,5 +46,5 @@
 
 ## 🔧 Development
 
-* [🕵 監査](development/jian-cha.md)
+* [🕵️ 監査](development/jian-cha.md)
 * [📃 コントラクト](development/contracts.md)
