@@ -1,4 +1,4 @@
-# 💦 Liquid dApp Staking
+# 💦 Liquid dApp Staking V1.5 (old)
 
 {% embed url="https://www.youtube.com/watch?v=8O6eHya-hvU&t=2s" %}
 
@@ -8,7 +8,7 @@ Algem's liquid staking solution allows users to continue to earn dApp staking re
 
 The goal of liquid staking is to solve problems such as liquidity and the efficiency of fund usage. Users constantly face a choice: protocol staking or farming/liquidity mining in dApps, and this solution allows users to obtain the preferences of both ways simultaneously.
 
-With new version 1.5 of Liquid Staking, Algem adopts the dApp Staking philosophy a bit more by supporting multipools and allowing users to decide on which project they want to stake their tokens.
+With the version 1.5 of Liquid Staking, Algem adopts the dApp Staking philosophy a bit more by supporting multipools and allowing users to decide on which project they want to stake their tokens.
 
 {% content-ref url="astr-liquid-staking.md" %}
 [astr-liquid-staking.md](astr-liquid-staking.md)
