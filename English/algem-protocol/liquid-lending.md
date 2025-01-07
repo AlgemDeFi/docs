@@ -1,8 +1,8 @@
-# 🌊 Liquid Lending
+# 🌊 Liquid Farming
 
 {% embed url="https://www.youtube.com/watch?v=CJHTTbDvFwg&t=14s" %}
 
-**Liquid Lending** is Algem's second and most important feature, offering a new concept and service to the entire defi industry.
+**Liquid Farming** is Algem's second and most important feature, offering a new concept and service to the entire defi industry.
 
 Algem's liquid lending solution allows users to continue to earn lending or farming rewards and increase their income with ALGM incentives and by using tradable liquid nASTR tokens.
 
