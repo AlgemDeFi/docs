@@ -4,7 +4,8 @@
 
 ## 🤖 Algem Protocol
 
-* [🚀 Liquid dApp Staking V2.0 (new)](algem-protocol/liquid-dapp-staking-v2.0-new.md)
+* [🚀 Liquid dApp Staking V2.0 (new)](algem-protocol/liquid-dapp-staking-v2.0-new/README.md)
+  * [xnASTR](algem-protocol/liquid-dapp-staking-v2.0-new/xnastr.md)
 * [💦 Liquid dApp Staking V1.5 (old)](algem-protocol/liquid-dapp-staking/README.md)
   * [ASTR Liquid Staking](algem-protocol/liquid-dapp-staking/astr-liquid-staking.md)
   * [nASTR](algem-protocol/liquid-dapp-staking/nastr.md)
