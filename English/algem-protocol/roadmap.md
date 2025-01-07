@@ -1,4 +1,8 @@
-# 🗺 Roadmap
+---
+hidden: true
+---
+
+# 🗺️ Roadmap
 
 ### &#x20;2023 - Stage 1:
 
