@@ -1,4 +1,4 @@
-# Liquid dApp Staking V2.0 (new)
+# 🚀 Liquid dApp Staking V2.0 (new)
 
 Algem’s Liquid Staking V2 represents a significant evolution of the liquid staking architecture initially introduced with version 1.5. Built on the Astar Network, the revamped system addresses key limitations of its predecessor while introducing innovative mechanics to enhance user experience, security, and integration with decentralized finance (DeFi) ecosystems.
 
