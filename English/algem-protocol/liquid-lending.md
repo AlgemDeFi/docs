@@ -1,33 +1,52 @@
 # 🌊 Liquid Farming
 
-{% embed url="https://www.youtube.com/watch?v=CJHTTbDvFwg&t=14s" %}
+The Liquid Farming concept is a successor to the liquid staking concept with one signicant difference: Liquid Farming allows users to remain liquid while participating in farming on AMM pools. It introduces new possibilities and strategies for liquidity providers, which will be further discussed in this paper.
 
-**Liquid Farming** is Algem's second and most important feature, offering a new concept and service to the entire defi industry.
+Algem’s Liquid Farming introduces a novel approach to liquidity provisioning and farming on the Soneium. By enabling users to remain liquid while participating in AMM farming activities, this innovative product significantly enhances flexibility, incentivization, and revenue opportunities for liquidity providers.
 
-Algem's liquid lending solution allows users to continue to earn lending or farming rewards and increase their income with ALGM incentives and by using tradable liquid nASTR tokens.
+### Key Features of Liquid Farming
 
-Liquid lending uses the exact mechanisms as liquid staking, but instead of interacting only with Astar's dApp staking, it is directly connected to other dApp protocols across the Astar network. Users can provide and lend their tokens to dApp protocols via Algem and receive liquid nASTR tokens representing their lending position.
+1. **lfETH Token Mechanism**
+   * **Liquid Representation**: lfETH functions as a liquid derivative of ETH, providing users the ability to claim their underlying assets upon vault expiration.
+   * **Utility and Flexibility**: Users can utilize lfETH in multiple ways, such as trading on AMMs, leveraging as collateral, or hedging their positions.
+2. **Enhanced Rewards System**
+   * **ALGM Incentives**: Users earn proportional ALGM rewards based on their staking contributions.
+   * **Dynamic Farming Rewards**: By staking ALGM tokens in dedicated pools, users can maximize their farming rewards.
+3. **Flexible Participation Options**
+   * **Vault Selection**: Users can choose from multiple vaults with varying expiration dates and incentive structures.
+   * **Early Liquidity Access**: lfETH enables liquidity providers to trade or utilize their assets without waiting for vault expiration.
 
-Through Algem, ASTR holders can provide or lend their tokens to lending or staking platforms, stablecoin projects, decentralized exchanges, or other defi protocols.
+### Advantages Over Traditional Farming
 
-![](<../../Indonesian/.gitbook/assets/Liquid Lending1.PNG>)
+1. **Continuous Liquidity**
+   * Unlike traditional farming mechanisms, Liquid Farming ensures that users maintain liquidity through lfETH tokens, allowing them to adapt to market changes.
+2. **Hedging Opportunities**
+   * By selling lfETH, users can mitigate potential losses if the price of ETH declines, providing a unique hedging mechanism.
+3. **Simplified Rewards Distribution**
+   * Rewards are distributed in ERAs and can be claimed manually, offering predictable and transparent earnings for participants.
 
-Algem liquid lending is developed around 3 vaults with different durations (100/200/300 days) and ALGM incentives.
+### Core Mechanics and Flow
 
-The duration corresponds to the user's intention to hold his tokens and to support the protocol. Unlike liquid staking, where users get 100% of the nASTR tokens immediately, in vaults, a portion of the nASTR tokens has a vesting period.
+1. **Liquidity Provisioning**
+   * Users supply ETH and ERC20 tokens to Algem’s supported AMM pools and receive LP tokens.
+   * LP tokens are locked into vaults, where corresponding lASTR tokens are minted.
+2. **Dynamic Reward Allocation**
+   * Farming rewards depend on a balance between a user’s staked ALGM and their share of LP tokens, with the weighting shifting progressively towards ALGM staking over time.
+3. **Liquidation Safeguards**
+   * A built-in liquidation mechanism ensures a 1:1 ratio of ETH to lfETH, protecting users from imbalances and securing their initial investments.
 
-The vaults with a longer duration receive more incentives from ALGM and have the most significant amount of nASTR tokens and the most prolonged vesting period. This is not a lock but simply a representation of the number of days users will receive ALGM incentives and nASTR tokens. Users can unlock the tokens at any time within the rules.
+### Revenue Model and Tokenomics
 
-_For example, if a user deposits 1000 ASTR in the 100-day vault, he will receive 930 nASTR immediately (the unlocking coefficient for the 100 days vault is 0.93. 0.93×1000 = 930), and 70 nASTR are unlocked linearly. Unvested tokens must be claimed manually._
+1. **Fee Structure**
+   * Algem charges a 10% fee on farming rewards, contributing to the ALGM staking pool and supporting the platform’s sustainability.
+2. **ALGM Token Utility**
+   * ALGM plays a central role in farming mechanics by reducing token velocity and establishing consistent demand through staking pools and governance.
 
-Before the liquid lending solution is launched, the nASTR vesting coefficient for the vault can be changed for protocol purposes.
+### User Benefits
 
-For the first iteration of the liquid lending supporting ASTR tokens, Algem allocated 15% of the ALGM supply (15,000,000 ALGM) as incentives for the 3 vaults.
-
-After depositing ASTR tokens in one of the vaults, users will choose a dApp to supply the ASTR they deposited and earn ALGM rewards.
-
-Algem will delegate the deposited token to the desired dApp using its smart contracts. Then, after some time, Algem will start collecting rewards from the dApp for providing the assets. We call them: **Partner Rewards**.
-
-Partner rewards are distributed to ASTR token providers based on their shares in the vaults and their ALGM voting power. The voting power corresponds to the amount of ALGM tokens they have staked on the dedicated dApp pool.
-
-Over time, the user will continue to receive ALGM rewards from the vault and can reinvest those ALGM back into the pool to earn more partner rewards.
+1. **Maximized Earnings**
+   * Liquid Farming provides additional rewards through ALGM incentives and trading opportunities with lfETH tokens.
+2. **Improved Flexibility**
+   * Users can adjust their strategies dynamically by trading or utilizing lfETH while maintaining eligibility for rewards.
+3. **Sustainable Ecosystem**
+   * The innovative mechanics ensure long-term demand for ALGM and attract sustainable liquidity to AMM pools.
