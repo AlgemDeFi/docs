@@ -1,4 +1,4 @@
-# xnASTR
+# 🪙 xnASTR
 
 To achieve the mentioned goals, a rewards-bearing architecture has been chosen with xnASTR as a liquid token. The "x" in xnASTR denotes its cross-chain nature due to its XC20 format.&#x20;
 
