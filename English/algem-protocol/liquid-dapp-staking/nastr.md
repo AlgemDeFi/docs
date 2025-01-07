@@ -1,8 +1,4 @@
----
-hidden: true
----
-
-# 💧 nASTR (V1.5 liquid token)
+# nASTR
 
 ### Introduction to nASTR
 

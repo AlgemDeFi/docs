@@ -6,8 +6,10 @@
 
 * [💦 Liquid dApp Staking V1.5](algem-protocol/liquid-dapp-staking/README.md)
   * [ASTR Liquid Staking](algem-protocol/liquid-dapp-staking/astr-liquid-staking.md)
+  * [nASTR](algem-protocol/liquid-dapp-staking/nastr.md)
   * [Unstaking nASTR](algem-protocol/liquid-dapp-staking/unstaking-nastr.md)
   * [Liquid staking FAQ](algem-protocol/liquid-dapp-staking/liquid-staking-faq.md)
+  * [nASTR Farming](algem-protocol/liquid-dapp-staking/nastr-farming.md)
 * [🌊 Liquid Farming](algem-protocol/liquid-lending.md)
 * [📔 nASTR Farming](algem-protocol/nastr-farming.md)
 * [💧 nASTR (V1.5 liquid token)](algem-protocol/dnts.md)

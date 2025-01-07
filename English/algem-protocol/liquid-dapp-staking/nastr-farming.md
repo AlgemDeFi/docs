@@ -1,12 +1,8 @@
----
-hidden: true
----
-
-# 📔 nASTR Farming
+# nASTR Farming
 
 The nASTR Farming – which we previously referred to as nASTR Liquidity Hub – is a group of **intermediate contracts** that improve the user experience by allowing nASTR holders to interact with other protocols to use their nASTR tokens directly on Algem.
 
-<figure><img src="../../Indonesian/.gitbook/assets/Article.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../Indonesian/.gitbook/assets/Article.png" alt=""><figcaption></figcaption></figure>
 
 nASTR farming contracts receive $nASTR tokens and then proxy the actions to the selected protocol. Once locked in the contract, the balance cannot be changed unless removing the liquidity.
 
@@ -34,4 +30,4 @@ If you use nASTR tokens directly on partner applications such as Arthswap, Siriu
 * **Security:** Protection from the possibility of draining funds from or bankrupting the LP-provider contract.&#x20;
 * **Supporting more protocols:** Not all dApp can support $nASTR for technical reasons. Among these are dApps such as AstridDAO and Arthswap, important for the Astar ecosystem.
 
-More information on how to use Algem's nASTR Liquidity Hub in the user [guide section.](../get-started/how-to-use-algems-nastr-farming/)
+More information on how to use Algem's nASTR Liquidity Hub in the user [guide section.](../../get-started/how-to-use-algems-nastr-farming/)
