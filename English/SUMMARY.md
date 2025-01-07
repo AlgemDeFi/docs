@@ -10,7 +10,7 @@
   * [Liquid staking FAQ](algem-protocol/liquid-dapp-staking/liquid-staking-faq.md)
 * [🌊 Liquid Farming](algem-protocol/liquid-lending.md)
 * [📔 nASTR Farming](algem-protocol/nastr-farming.md)
-* [💧 nASTR (old liquid token)](algem-protocol/dnts.md)
+* [💧 nASTR (V1.5 liquid token)](algem-protocol/dnts.md)
 * [👥 Join Algem Community](algem-protocol/join-algem-community/README.md)
   * [Ecosystem Links](algem-protocol/join-algem-community/ecosystem-links.md)
   * [Algyors Program](algem-protocol/join-algem-community/algyors-program.md)
