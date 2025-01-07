@@ -4,7 +4,7 @@
 
 ## 🤖 Algem Protocol
 
-* [💦 Liquid dApp Staking](algem-protocol/liquid-dapp-staking/README.md)
+* [💦 Liquid dApp Staking V1.5](algem-protocol/liquid-dapp-staking/README.md)
   * [ASTR Liquid Staking](algem-protocol/liquid-dapp-staking/astr-liquid-staking.md)
   * [Unstaking nASTR](algem-protocol/liquid-dapp-staking/unstaking-nastr.md)
   * [Liquid staking FAQ](algem-protocol/liquid-dapp-staking/liquid-staking-faq.md)
