@@ -1,4 +1,4 @@
-# 🖼 NFT Collections
+# 🖼️ NFT Collections
 
 Algem is the first project on Astar network to experiment with NFT collections and Defi services. Owning one or more of our NFTs gives its owner advantages over Algem's Defi products, such as discounts on fees, increased APR, access to private groups and other gifts.
 
@@ -22,8 +22,7 @@ The birth of algemantis is accompanied by the story of Algem's conception by the
 
 ### Benefits of owning a Algemantis NFT :
 
-* APR Booster for the Liquid Lending ALGM Incentives
-* Discount on the Liquid Lending fees
+* APR Booster for the Liquid Farming ALGM Incentives
 * Private NFT and tokens airdrops
 * Regular private incentivized contests and polls
 * An access to the private group in Algem Discord
@@ -31,7 +30,7 @@ The birth of algemantis is accompanied by the story of Algem's conception by the
 
 Algemantis NFTs can be traded on the secondary market on Bluez or Tofu NFT :
 
-[https://bluez.app/algemantis\_nautilus\_pass](https://bluez.app/algemantis\_nautilus\_pass)\
+[https://bluez.app/algemantis\_nautilus\_pass](https://bluez.app/algemantis_nautilus_pass)\
 [https://tofunft.com/collection/algemantis-nautilus-pass/items](https://tofunft.com/collection/algemantis-nautilus-pass/items)
 
 ## Liquid Staking Discount NFT
@@ -48,7 +47,7 @@ Holding a NFT gives a 10% discount on the 10% staking reward fee, bringing the f
 
 Liquid Staking Discount NFT can be traded on the secondary market on Bluez or Tofu NFT :
 
-[https://bluez.app/algem\_liquid\_staking\_discount](https://bluez.app/algem\_liquid\_staking\_discount)\
+[https://bluez.app/algem\_liquid\_staking\_discount](https://bluez.app/algem_liquid_staking_discount)\
 [https://tofunft.com/collection/algem-liquid-staking-discount/items](https://tofunft.com/collection/algem-liquid-staking-discount/items)
 
 ## Algem x Archiverse Dojo
@@ -73,5 +72,5 @@ _Developed and built by Archiverse (www.archiverse.art)_
 
 Algem x Archiverse Dojo NFT can be traded on the secondary market on Bluez or Tofu NFT :
 
-[https://bluez.app/algem\_dojo](https://bluez.app/algem\_dojo)\
+[https://bluez.app/algem\_dojo](https://bluez.app/algem_dojo)\
 [https://tofunft.com/collection/algem-archiverse-dojo/items](https://tofunft.com/collection/algem-archiverse-dojo/items)

@@ -1,4 +1,4 @@
-# ⚖ Protocol revenues
+# ⚖️ Protocol revenues
 
 Algem protocol revenues come from two different sources:
 
@@ -11,12 +11,12 @@ Algem protocol revenues come from two different sources:
 
 ### Revenue distribution
 
-#### Before the Liquid Lending launch (current stage)
+#### Before the Liquid Farming launch (current stage)
 
 * 90% of the whole revenue goes to the team;
 * 10% of the whole revenue goes to the immediate unstaking pool ([more information about immedial unstaking here](https://docs.algem.io/algem-protocol/liquid-staking/unstaking-nastr)).
 
-#### After the Liquid Lending launch
+#### After the Liquid Farming launch
 
 * 70% of the whole revenue goes to the [ALGM stakers as a reward](https://docs.algem.io/algem-protocol/algm-token/algm-utility#algm-staking-and-reinvestment-in-corresponding-pools);
 * 20% of the whole revenue goes to the team;
