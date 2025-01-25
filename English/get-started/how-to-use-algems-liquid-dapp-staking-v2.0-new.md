@@ -4,7 +4,7 @@
 
 #### Header
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXaWbeFtBR-_v9dl41zkdU5HikUU5pNNXTdw5V2cWBjdeXNiyde1IY7UU-umhmmgZbbVAols9RZKDRXunLDm_raPYyYzeC6CKGeG_JNMNcrdWTU7kMnzVYrRgdJ6MazTCqY4nM?key=9Xqljv01pSU-g5INNQ4ujXdn)
+<figure><img src="../.gitbook/assets/header.png" alt=""><figcaption></figcaption></figure>
 
 1. Toggle between light and dark themes.
 2. Switch between available networks: Astar and Soneium.
@@ -12,7 +12,7 @@
 
 #### General Information about Liquid dApp Staking
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1ZiGw2yB0Cfl7KghYgn6yd8zJgGjdsAKsZFVlbmDQNGje61-84DyJAxk2B7-TK5RtObeETsnSBZw9_S53WZwj3MdaQMv0abfD-EsjwWq_8_pCPQc1F7Wl90fKSrgJGP67gGa8NQ?key=9Xqljv01pSU-g5INNQ4ujXdn)
+<figure><img src="../.gitbook/assets/general.png" alt=""><figcaption></figcaption></figure>
 
 4. TVL: Displayed in both ASTR and USD.
 5. APR: Includes bonus rewards and re-staking of dApp staking rewards.
@@ -21,7 +21,7 @@
 
 #### Your Stake and Rewards Information
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcvTo_RN5GLQoTjnUI818ALje6Rgn5XNizPdbHbRbx4qn3IHuj67jtzOst76Za0rQ8hJn9X3EMzep1XPS7VadSldgWEKK93kHjcqIr1esWFeXbHqjHP-x0XNbDpyegLQCcRrsAhFA?key=9Xqljv01pSU-g5INNQ4ujXdn)
+<figure><img src="../.gitbook/assets/stake.png" alt=""><figcaption></figcaption></figure>
 
 8. Stake Amount: Displayed in xnASTR.
 9. Current xnASTR Price: Shown relative to ASTR.
@@ -30,11 +30,11 @@
 
 #### Staking/Unstaking Form
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXePieIY--dC_SHIxgsCgsqH7wKssDWGtmqDIKG-kX_w-FWXV9N319D8pgGSdiPpb3HiJpFA7Bnxzbv67K96bcL4OBp8eeZzyZK1G-Z0JG4wZ9wr0frnBWwD6TgjgdcoGAup3J2lCA?key=9Xqljv01pSU-g5INNQ4ujXdn)
+<figure><img src="../.gitbook/assets/stake form.png" alt=""><figcaption></figcaption></figure>
 
 #### dApps available for Liquid Staking
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdUlcQr1BFswJRZePHSNeIm17cYBLSWJ1-fF2fuDhWvdg2QWv4IwKXjK3Z3CFTTmIuJRjeRUn-_-DudClkJar7_KRkW4kDG3uW_xXa9xswYDW7ECGRru2gvDuArnGUIgVjtkPIlHw?key=9Xqljv01pSU-g5INNQ4ujXdn)
+<figure><img src="../.gitbook/assets/dapps.png" alt=""><figcaption></figcaption></figure>
 
 Your ASTR tokens will be staked across the dApps listed below, in proportion to their staking weights.
 
@@ -77,10 +77,7 @@ New dApps will be periodically added based on user votes conducted via veALGM af
 
 #### Network Selection and Wallet Connection
 
-\
-
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcINBjsMgsWxCAI_F7YAnU5z428beRXheIlIuHvH4OTQXhzoKyWKKOoc1_zd4xqOv-GYPe1cidUuWueq_aFz08Wb3ovsbr6DfZ9lnT7bpu-KWc4RJPPiMK43AWd_wIg67DxLLHz?key=9Xqljv01pSU-g5INNQ4ujXdn)
+<figure><img src="../.gitbook/assets/networks.png" alt=""><figcaption></figcaption></figure>
 
 Go to the Liquid dApp Staking V2.0 page and select the network you want to stake on.
 
@@ -91,7 +88,7 @@ To transfer ASTR from Astar to Soneium, use the [bridge on the Astar Network por
 
 #### Staking
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcsUKna7K10XZZTOHb8Q9UIg30KDTeyHH8E5--IO62lDDQ9tTlvPRmhZvcmS_NytoAE0-8-gQ3tatoGZrYs3S0Q07MvucvfZofaC8dAs4ah6cb5B9uY4Dge08KC-wWqrr34EfqJJQ?key=9Xqljv01pSU-g5INNQ4ujXdn)
+<figure><img src="../.gitbook/assets/form.png" alt=""><figcaption></figcaption></figure>
 
 * Select the staking window and enter the desired amount (minimum 100 ASTR), then confirm the transaction.
 * On Astar Network, staking requires a single transaction.
@@ -122,7 +119,7 @@ In Metamask:
 
 #### Unstaking
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfFe-lZuywl2LJw1vfxL5DAWlcF3iyxrT8Yj73zXMuDfdO97Ul92yMClnF04T531iwznEJ5VaHGppjmG61mDoQl2ZkffGNLpvauy7BYQXPZOYYVaOVHm8q5x7IBypWnQ8OPnajCBw?key=9Xqljv01pSU-g5INNQ4ujXdn)
+<figure><img src="../.gitbook/assets/unstake.png" alt=""><figcaption></figcaption></figure>
 
 * Click the unstake tab and enter the desired amount (minimum 100 xnASTR), then confirm the transaction.
 * On Astar Network, unstaking requires a single transaction.
@@ -135,6 +132,6 @@ Two unstaking options are available here:
 
 #### **Withdrawing Tokens**
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeoJyJUodSzH3cdIJoLJtfxo0hyjMrWHPGlwaNd_Y814ZqFSOv9qV8KBZPad6-SDuaxAKKLYPygcjYAUFVKA4GKwvEAusE4eQF4clhikvyhN-vk4PjFjk0YJWG2VAC-kp1dVOTiSw?key=9Xqljv01pSU-g5INNQ4ujXdn)
+<figure><img src="../.gitbook/assets/withdraw.png" alt=""><figcaption></figcaption></figure>
 
 After initiating standard unstaking, the dashboard will display a new My Unstaking Amount field. Once this unstaking period ends, the Claim Tokens button will become active, allowing you to withdraw your ASTR tokens.
