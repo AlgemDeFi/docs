@@ -1,5 +1,7 @@
 # 🚀 How to use Algem's Liquid dApp Staking V2.0 (new)
 
+Open the link: [https://v2.algem.io/](https://v2.algem.io/)&#x20;
+
 ### Liquid dApp Staking dashboard overview&#x20;
 
 #### Header
