@@ -108,7 +108,7 @@ After staking, your xnASTR balance will appear on the dashboard (tokens transfer
 
 Use the contract address below to add xnASTR to your wallet (same for Astar Network and Soneium):
 
-0x7274364543EDd6cd5cE59AD64b12e5F5837Bb2f3
+0xea1e08A176528e2d7250a6F7001F18EDF0CaeCF0
 
 In Metamask:
 
