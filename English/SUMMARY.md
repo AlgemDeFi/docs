@@ -4,6 +4,8 @@
 
 ## 🤖 Algem Protocol
 
+* [🌊 Liquid Farming](algem-protocol/liquid-lending/README.md)
+  * [FAQ](algem-protocol/liquid-lending/faq.md)
 * [🚀 Liquid dApp Staking V2.0 (new)](algem-protocol/liquid-dapp-staking-v2.0-new/README.md)
   * [🪙 xnASTR](algem-protocol/liquid-dapp-staking-v2.0-new/xnastr.md)
 * [💦 Liquid dApp Staking V1.5 (old)](algem-protocol/liquid-dapp-staking/README.md)
@@ -12,7 +14,6 @@
   * [Unstaking nASTR](algem-protocol/liquid-dapp-staking/unstaking-nastr.md)
   * [Liquid staking FAQ](algem-protocol/liquid-dapp-staking/liquid-staking-faq.md)
   * [nASTR Farming](algem-protocol/liquid-dapp-staking/nastr-farming.md)
-* [🌊 Liquid Farming](algem-protocol/liquid-lending.md)
 * [🪙 ALGM token](algem-protocol/algm-token/README.md)
   * [Tokenomics](algem-protocol/algm-token/tokenomics.md)
   * [ALGM Utility](algem-protocol/algm-token/algm-utility.md)
