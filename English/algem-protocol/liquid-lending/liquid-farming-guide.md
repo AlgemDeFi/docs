@@ -2,7 +2,7 @@
 
 ### **Welcome to Liquid Farming!**
 
-### Liquid Farming offers an innovative way to earn rewards by supplying liquidity to selected pools. This guide will walk you through the process, from depositing tokens to claiming your rewards. Follow the steps carefully to maximize your earnings.
+Liquid Farming offers an innovative way to earn rewards by supplying liquidity to selected pools. This guide will walk you through the process, from depositing tokens to claiming your rewards. Follow the steps carefully to maximize your earnings.
 
 ### General information
 
