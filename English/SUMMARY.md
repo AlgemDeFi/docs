@@ -6,6 +6,7 @@
 
 * [🌊 Liquid Farming](algem-protocol/liquid-lending/README.md)
   * [FAQ](algem-protocol/liquid-lending/faq.md)
+  * [Liquid Farming Guide](algem-protocol/liquid-lending/liquid-farming-guide.md)
 * [🚀 Liquid dApp Staking V2.0 (new)](algem-protocol/liquid-dapp-staking-v2.0-new/README.md)
   * [🪙 xnASTR](algem-protocol/liquid-dapp-staking-v2.0-new/xnastr.md)
 * [💦 Liquid dApp Staking V1.5 (old)](algem-protocol/liquid-dapp-staking/README.md)
