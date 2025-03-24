@@ -43,7 +43,7 @@ To fully understand all the mechanics of Liquid Farming, it is recommended to re
 
 🚨 Important Notes:
 
-* You must supply an equal value of ETH and ERC20 tokens.
+* The asset proportions at the time of deposit are determined automatically based on the vault's preset range and may differ from equivalent 50/50 values.
 * Depositing is a two-step process:
 
 1. Approve the transaction
