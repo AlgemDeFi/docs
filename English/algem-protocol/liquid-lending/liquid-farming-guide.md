@@ -10,7 +10,8 @@ Here is a list of available Vaults for deposits. New pairs will be added soon!
 
 * [Velodrome: WETH/yaySTONE](https://velodrome.finance/deposit?token0=0x4200000000000000000000000000000000000006\&token1=0x54e86315C03217b76A7466C302245fD10ebEf25A\&type=1\&chain=1868\&factory=0x04625B046C69577EfC40e6c0Bb83CDBAfab5a55F) - 200,000 ALGM incentives for 4 months.
 * [Velodrome: WETH/yayAgETH](https://velodrome.finance/deposit?token0=0x4200000000000000000000000000000000000006\&token1=0xda14b3B7aEF494b8c37ed9710d14e44D490316fa\&type=1\&chain=1868\&factory=0x04625B046C69577EfC40e6c0Bb83CDBAfab5a55F) - 55,097 ALGM incentives for 4 months.
-* [KYO: ETH/wstETH](https://app.kyo.finance/liquidity/0x7db202708043087cf3f308eb0bf567bbe8d45384) - 4,000 ALGM incentives for 4 months.
+* [KYO: ETH/wstETH](https://app.kyo.finance/liquidity/0x7db202708043087cf3f308eb0bf567bbe8d45384) - 55,000 ALGM incentives for 4 months.
+* [Sonex: ETH/pufETH](https://lf.algem.io/sonex/eth_pufeth) - 55,000 ALGM incentives for 4 months.
 
 All pairs are configured to operate within a normal price range, ensuring a balance between the risks of impermanent loss and farming rewards.
 
